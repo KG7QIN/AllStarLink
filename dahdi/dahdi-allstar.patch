@@ -1,0 +1,145 @@
+diff -Naur dahdi-linux-complete-2.10.2+2.10.2/linux/drivers/dahdi/dahdi-base.c dahdi-linux-complete-2.10.2+2.10.2-patch/linux/drivers/dahdi/dahdi-base.c
+--- dahdi-linux-complete-2.10.2+2.10.2/linux/drivers/dahdi/dahdi-base.c	2015-06-15 19:37:29.000000000 +0000
++++ dahdi-linux-complete-2.10.2+2.10.2-patch/linux/drivers/dahdi/dahdi-base.c	2015-07-04 03:13:46.597654575 +0000
+@@ -1116,7 +1116,7 @@
+ #endif
+ 
+ 	/* return if no valid conf number */
+-	if (x <= 0)
++	if ((x <= 0) || (x >= DAHDI_MAX_CONF))
+ 		return;
+ 
+ 	/* Return if there is no alias */
+@@ -1497,6 +1497,7 @@
+ {
+ 	int res;
+ 
++	if (is_pseudo_chan(chan)) return 0;
+ 	mutex_lock(&chan->mutex);
+ 	if (chan->ec_factory != &hwec_factory)
+ 		res = -ENODEV;
+@@ -1523,6 +1524,7 @@
+  */
+ static void dahdi_disable_hw_preechocan(struct dahdi_chan *chan)
+ {
++	if (is_pseudo_chan(chan)) return;
+ 	if (chan->span->ops->disable_hw_preechocan)
+ 		chan->span->ops->disable_hw_preechocan(chan);
+ }
+@@ -3199,7 +3201,7 @@
+ #endif
+ }
+ 
+-static unsigned int max_pseudo_channels = 512;
++static unsigned int max_pseudo_channels = 2500;
+ static unsigned int num_pseudo_channels;
+ 
+ /**
+@@ -7931,6 +7933,29 @@
+ 				real channel's last sample. */
+ 			  /* if to talk on conf */
+ 			if (ms->confmode & DAHDI_CONF_PSEUDO_TALKER) {
++#ifndef        OLD_BROKEN_CODE
++                               /* Store temp value */
++                               memcpy(k, getlin, DAHDI_CHUNKSIZE * sizeof(short));
++                               /* Add conf value */
++                               ACSS(k, conf_sums_next[ms->_confn]);
++                               /* save last one */
++                               memcpy(ms->conflast2, ms->conflast1, DAHDI_CHUNKSIZE * sizeof(short));
++                               memcpy(ms->conflast1, k, DAHDI_CHUNKSIZE * sizeof(short));
++                               /*  get amount actually added */
++                               SCSS(ms->conflast1, conf_sums_next[ms->_confn]);
++                               /* Really add in new value */
++                               ACSS(conf_sums_next[ms->_confn], ms->conflast1);
++                               /* add in stuff from pseudo-receive, too */
++                               ACSS(getlin,ms->putlin_pseudo);
++                               memcpy(ms->getlin, getlin, DAHDI_CHUNKSIZE * sizeof(short));
++                        } else {
++                               memset(ms->conflast1, 0, DAHDI_CHUNKSIZE * sizeof(short));
++                               memset(ms->conflast2, 0, DAHDI_CHUNKSIZE * sizeof(short));
++                               memset(getlin, 0, DAHDI_CHUNKSIZE * sizeof(short));
++                        }
++#else
++#error DONT USE THIS, ITS BROKEN
++
+ 				/* Store temp value */
+ 				memcpy(k, getlin, DAHDI_CHUNKSIZE * sizeof(short));
+ 				/* Add conf value */
+@@ -7947,6 +7972,7 @@
+ 				memset(ms->conflast2, 0, DAHDI_CHUNKSIZE * sizeof(short));
+ 			}
+ 			memset(getlin, 0, DAHDI_CHUNKSIZE * sizeof(short));
++#endif
+ 			txb[0] = DAHDI_LIN2X(0, ms);
+ 			memset(txb + 1, txb[0], DAHDI_CHUNKSIZE - 1);
+ 			/* fall through to normal conf mode */
+@@ -8896,7 +8922,7 @@
+ 	}
+ 	for (x=0;x<DAHDI_CHUNKSIZE;x++) {
+ 		rxb[x] = ms->rxgain[rxb[x]];
+-		putlin[x] = DAHDI_XLAW(rxb[x], ms);
++		putlin[x] = ms->putlin_pseudo[x] = DAHDI_XLAW(rxb[x], ms);
+ 	}
+ 
+ #ifndef CONFIG_DAHDI_NO_ECHOCAN_DISABLE
+@@ -9066,8 +9092,29 @@
+ 		case DAHDI_CONF_CONF:	/* Normal conference mode */
+ 			if (is_pseudo_chan(ms)) /* if a pseudo-channel */
+ 			   {
++#ifndef        OLD_BROKEN_CODE
++                               if (ms->confmode & DAHDI_CONF_TALKER) {
++                                       /* Store temp value */
++                                       memcpy(k, putlin, DAHDI_CHUNKSIZE * sizeof(short));
++                                       /* Add conf value */
++                                       ACSS(k, conf_sums_next[ms->_confn]);
++                                       /*  get amount actually added */
++                                       memcpy(ms->conflast, k, DAHDI_CHUNKSIZE * sizeof(short));
++                                       SCSS(ms->conflast, conf_sums_next[ms->_confn]);
++                                       /* Really add in new value */
++                                       ACSS(conf_sums_next[ms->_confn], ms->conflast);
++                               } else memset(ms->conflast, 0, DAHDI_CHUNKSIZE * sizeof(short));
++#endif
++
+ 				if (ms->confmode & DAHDI_CONF_LISTENER) {
+ 					/* Subtract out last sample written to conf */
++#ifndef        OLD_BROKEN_CODE
++                                       SCSS(putlin, ms->conflast2);
++#else
++#error DONT USE THIS, ITS BROKEN
++                                        SCSS(putlin, ms->conflast);
++#endif
++
+ 					SCSS(putlin, ms->conflast);
+ 					/* Add in conference */
+ 					ACSS(putlin, conf_sums[ms->_confn]);
+@@ -9142,7 +9189,7 @@
+ 	int oldbuf;
+ 	int eof=0;
+ 	int abort=0;
+-	int res;
++	int res=0;
+ 	int left, x;
+ 
+ 	while(bytes) {
+diff -Naur dahdi-linux-complete-2.10.2+2.10.2/linux/drivers/dahdi/xpp/xpd.h dahdi-linux-complete-2.10.2+2.10.2-patch/linux/drivers/dahdi/xpp/xpd.h
+--- dahdi-linux-complete-2.10.2+2.10.2/linux/drivers/dahdi/xpp/xpd.h	2015-06-15 19:37:29.000000000 +0000
++++ dahdi-linux-complete-2.10.2+2.10.2-patch/linux/drivers/dahdi/xpp/xpd.h	2015-07-04 01:57:26.430329005 +0000
+@@ -40,6 +40,7 @@
+ #include <linux/moduleparam.h>
+ #endif /* __KERNEL__ */
+ 
++#include <linux/slab.h>
+ #include <dahdi/kernel.h>
+ 
+ #ifdef __KERNEL__
+diff -Naur dahdi-linux-complete-2.10.2+2.10.2/linux/include/dahdi/kernel.h dahdi-linux-complete-2.10.2+2.10.2-patch/linux/include/dahdi/kernel.h
+--- dahdi-linux-complete-2.10.2+2.10.2/linux/include/dahdi/kernel.h	2015-06-15 19:37:29.000000000 +0000
++++ dahdi-linux-complete-2.10.2+2.10.2-patch/linux/include/dahdi/kernel.h	2015-07-04 01:43:34.869493131 +0000
+@@ -543,6 +543,7 @@
+ 	short	getlin[DAHDI_MAX_CHUNKSIZE];			/*!< Last transmitted samples */
+ 	unsigned char getraw[DAHDI_MAX_CHUNKSIZE];		/*!< Last received raw data */
+ 	short	putlin[DAHDI_MAX_CHUNKSIZE];			/*!< Last received samples */
++	short   putlin_pseudo[DAHDI_MAX_CHUNKSIZE];    /* Last received samples -- pseudo channel */
+ 	unsigned char putraw[DAHDI_MAX_CHUNKSIZE];		/*!< Last received raw data */
+ 	short	conflast[DAHDI_MAX_CHUNKSIZE];			/*!< Last conference sample -- base part of channel */
+ 	short	conflast1[DAHDI_MAX_CHUNKSIZE];		/*!< Last conference sample  -- pseudo part of channel */
