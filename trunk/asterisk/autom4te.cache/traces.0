@@ -1,0 +1,1882 @@
+m4trace:/usr/share/aclocal/lt~obsolete.m4:36: -1- AC_DEFUN([LTOBSOLETE_VERSION], [m4_if([1])])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:38: -1- AC_DEFUN([AC_LIBTOOL_LINKER_OPTION])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:40: -1- AC_DEFUN([_LT_AC_PROG_ECHO_BACKSLASH])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:41: -1- AC_DEFUN([_LT_AC_SHELL_INIT])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:42: -1- AC_DEFUN([_LT_AC_SYS_LIBPATH_AIX])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:43: -1- AC_DEFUN([_LT_PROG_LTMAIN])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:44: -1- AC_DEFUN([_LT_AC_TAGVAR])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:45: -1- AC_DEFUN([AC_LTDL_ENABLE_INSTALL])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:46: -1- AC_DEFUN([AC_LTDL_PREOPEN])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:47: -1- AC_DEFUN([_LT_AC_SYS_COMPILER])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:48: -1- AC_DEFUN([_LT_AC_LOCK])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:49: -1- AC_DEFUN([AC_LIBTOOL_SYS_OLD_ARCHIVE])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:50: -1- AC_DEFUN([_LT_AC_TRY_DLOPEN_SELF])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:51: -1- AC_DEFUN([AC_LIBTOOL_PROG_CC_C_O])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:52: -1- AC_DEFUN([AC_LIBTOOL_SYS_HARD_LINK_LOCKS])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:53: -1- AC_DEFUN([AC_LIBTOOL_OBJDIR])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:54: -1- AC_DEFUN([AC_LTDL_OBJDIR])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:55: -1- AC_DEFUN([AC_LIBTOOL_PROG_LD_HARDCODE_LIBPATH])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:56: -1- AC_DEFUN([AC_LIBTOOL_SYS_LIB_STRIP])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:57: -1- AC_DEFUN([AC_PATH_MAGIC])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:58: -1- AC_DEFUN([AC_PROG_LD_GNU])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:59: -1- AC_DEFUN([AC_PROG_LD_RELOAD_FLAG])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:60: -1- AC_DEFUN([AC_DEPLIBS_CHECK_METHOD])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:61: -1- AC_DEFUN([AC_LIBTOOL_PROG_COMPILER_NO_RTTI])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:62: -1- AC_DEFUN([AC_LIBTOOL_SYS_GLOBAL_SYMBOL_PIPE])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:63: -1- AC_DEFUN([AC_LIBTOOL_PROG_COMPILER_PIC])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:64: -1- AC_DEFUN([AC_LIBTOOL_PROG_LD_SHLIBS])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:65: -1- AC_DEFUN([AC_LIBTOOL_POSTDEP_PREDEP])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:66: -1- AC_DEFUN([LT_AC_PROG_EGREP])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:67: -1- AC_DEFUN([LT_AC_PROG_SED])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:68: -1- AC_DEFUN([_LT_CC_BASENAME])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:69: -1- AC_DEFUN([_LT_COMPILER_BOILERPLATE])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:70: -1- AC_DEFUN([_LT_LINKER_BOILERPLATE])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:71: -1- AC_DEFUN([_AC_PROG_LIBTOOL])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:72: -1- AC_DEFUN([AC_LIBTOOL_SETUP])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:73: -1- AC_DEFUN([_LT_AC_CHECK_DLFCN])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:74: -1- AC_DEFUN([AC_LIBTOOL_SYS_DYNAMIC_LINKER])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:75: -1- AC_DEFUN([_LT_AC_TAGCONFIG])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:76: -1- AC_DEFUN([AC_DISABLE_FAST_INSTALL])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:77: -1- AC_DEFUN([_LT_AC_LANG_CXX])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:78: -1- AC_DEFUN([_LT_AC_LANG_F77])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:79: -1- AC_DEFUN([_LT_AC_LANG_GCJ])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:80: -1- AC_DEFUN([AC_LIBTOOL_LANG_C_CONFIG])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:81: -1- AC_DEFUN([_LT_AC_LANG_C_CONFIG])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:82: -1- AC_DEFUN([AC_LIBTOOL_LANG_CXX_CONFIG])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:83: -1- AC_DEFUN([_LT_AC_LANG_CXX_CONFIG])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:84: -1- AC_DEFUN([AC_LIBTOOL_LANG_F77_CONFIG])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:85: -1- AC_DEFUN([_LT_AC_LANG_F77_CONFIG])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:86: -1- AC_DEFUN([AC_LIBTOOL_LANG_GCJ_CONFIG])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:87: -1- AC_DEFUN([_LT_AC_LANG_GCJ_CONFIG])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:88: -1- AC_DEFUN([AC_LIBTOOL_LANG_RC_CONFIG])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:89: -1- AC_DEFUN([_LT_AC_LANG_RC_CONFIG])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:90: -1- AC_DEFUN([AC_LIBTOOL_CONFIG])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:91: -1- AC_DEFUN([_LT_AC_FILE_LTDLL_C])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:92: -1- AC_DEFUN([_LT_REQUIRED_DARWIN_CHECKS])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:93: -1- AC_DEFUN([_LT_AC_PROG_CXXCPP])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:94: -1- AC_DEFUN([_LT_PREPARE_SED_QUOTE_VARS])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:95: -1- AC_DEFUN([_LT_PROG_ECHO_BACKSLASH])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:96: -1- AC_DEFUN([_LT_PROG_F77])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:97: -1- AC_DEFUN([_LT_PROG_FC])
+m4trace:/usr/share/aclocal/lt~obsolete.m4:98: -1- AC_DEFUN([_LT_PROG_CXX])
+m4trace:acinclude.m4:3: -1- AC_DEFUN([AST_GCC_ATTRIBUTE], [
+AC_MSG_CHECKING(for compiler 'attribute $1' support)
+saved_CFLAGS="$CFLAGS"
+CFLAGS="$CFLAGS -Werror"
+AC_COMPILE_IFELSE(
+	AC_LANG_PROGRAM([static void __attribute__(($1)) *test(void *muffin, ...) {}],
+			[]),
+	AC_MSG_RESULT(yes)
+	AC_DEFINE_UNQUOTED([HAVE_ATTRIBUTE_$1], 1, [Define to 1 if your GCC C compiler supports the '$1' attribute.]),
+	AC_MSG_RESULT(no))
+
+CFLAGS="$saved_CFLAGS"
+])
+m4trace:acinclude.m4:20: -1- AC_DEFUN([AST_EXT_LIB_SETUP], [
+$1_DESCRIP="$2"
+$1_OPTION="$3"
+AC_ARG_WITH([$3], AC_HELP_STRING([--with-$3=PATH],[use $2 files in PATH $4]),[
+case ${withval} in
+     n|no)
+     USE_$1=no
+     ;;
+     y|ye|yes)
+     $1_MANDATORY="yes"
+     ;;
+     *)
+     $1_DIR="${withval}"
+     $1_MANDATORY="yes"
+     ;;
+esac
+])
+PBX_$1=0
+AC_SUBST([$1_LIB])
+AC_SUBST([$1_INCLUDE])
+AC_SUBST([$1_DIR])
+AC_SUBST([PBX_$1])
+])
+m4trace:acinclude.m4:47: -1- AC_DEFUN([AST_EXT_LIB_CHECK], [
+if test "${USE_$1}" != "no"; then
+   pbxlibdir=""
+   if test "x${$1_DIR}" != "x"; then
+      if test -d ${$1_DIR}/lib; then
+      	 pbxlibdir="-L${$1_DIR}/lib"
+      else
+      	 pbxlibdir="-L${$1_DIR}"
+      fi
+   fi
+   AC_CHECK_LIB([$2], [$3], [AST_$1_FOUND=yes], [AST_$1_FOUND=no], ${pbxlibdir} $5)
+
+   if test "${AST_$1_FOUND}" = "yes"; then
+      $1_LIB="-l$2 $5"
+      $1_HEADER_FOUND="1"
+      if test "x${$1_DIR}" != "x"; then
+         $1_LIB="${pbxlibdir} ${$1_LIB}"
+	 $1_INCLUDE="-I${$1_DIR}/include"
+      fi
+      $1_INCLUDE="${$1_INCLUDE} $6"
+      saved_cppflags="${CPPFLAGS}"
+      CPPFLAGS="${CPPFLAGS} ${$1_INCLUDE}"
+      if test "x$4" != "x" ; then
+         AC_CHECK_HEADER([$4], [$1_HEADER_FOUND=1], [$1_HEADER_FOUND=0])
+      fi
+      CPPFLAGS="${saved_cppflags}"
+      if test "x${$1_HEADER_FOUND}" = "x0" ; then
+         if test -n "${$1_MANDATORY}" ;
+         then
+            AC_MSG_NOTICE([***])
+            AC_MSG_NOTICE([*** It appears that you do not have the $2 development package installed.])
+            AC_MSG_NOTICE([*** Please install it to include ${$1_DESCRIP} support, or re-run configure])
+            AC_MSG_NOTICE([*** without explicitly specifying --with-${$1_OPTION}])
+            exit 1
+         fi
+         $1_LIB=""
+         $1_INCLUDE=""
+         PBX_$1=0
+      else
+         PBX_$1=1
+         AC_DEFINE_UNQUOTED([HAVE_$1], 1, [Define to indicate the ${$1_DESCRIP} library])
+      fi
+   elif test -n "${$1_MANDATORY}";
+   then
+      AC_MSG_NOTICE([***])
+      AC_MSG_NOTICE([*** The ${$1_DESCRIP} installation on this system appears to be broken.])
+      AC_MSG_NOTICE([*** Either correct the installation, or run configure])
+      AC_MSG_NOTICE([*** without explicitly specifying --with-${$1_OPTION}])
+      exit 1
+   fi
+fi
+])
+m4trace:acinclude.m4:118: -1- AC_DEFUN([AST_C_DEFINE_CHECK], [
+    if test "x${PBX_$1}" != "x1"; then
+    AC_MSG_CHECKING([for $2 in $3])
+    saved_cppflags="${CPPFLAGS}"
+    if test "x${$1_DIR}" != "x"; then
+        $1_INCLUDE="-I${$1_DIR}/include"
+    fi
+    CPPFLAGS="${CPPFLAGS} ${$1_INCLUDE}"
+
+    AC_COMPILE_IFELSE(
+        [ AC_LANG_PROGRAM( [#include <$3>],
+                   [#if defined($2)
+                int foo = 0;
+                    #else
+                    int foo = bar;
+                    #endif
+                0
+                   ])],
+        [   AC_MSG_RESULT(yes)
+        PBX_$1=1
+        AC_DEFINE([HAVE_$1], 1, [Define if your system has the $1 headers.])
+        AC_DEFINE([HAVE_$1_VERSION], $4, [Define $1 headers version])
+        ],
+        [   AC_MSG_RESULT(no) ] 
+    )
+    CPPFLAGS="${saved_cppflags}"
+    fi
+    AC_SUBST(PBX_$1)
+])
+m4trace:acinclude.m4:152: -1- AC_DEFUN([AST_C_COMPILE_CHECK], [
+    if test "x${PBX_$1}" != "x1" -a "${USE_$1}" != "no"; then
+        if test "x$5" != "x"; then
+            AC_MSG_CHECKING([for $5])
+	else
+            AC_MSG_CHECKING([if "$2" compiles using $3])
+	fi
+	saved_cppflags="${CPPFLAGS}"
+	if test "x${$1_DIR}" != "x"; then
+	    $1_INCLUDE="-I${$1_DIR}/include"
+	fi
+	CPPFLAGS="${CPPFLAGS} ${$1_INCLUDE}"
+
+	AC_COMPILE_IFELSE(
+	    [ AC_LANG_PROGRAM( [#include <$3>],
+			       [ $2; ]
+			       )],
+	    [   AC_MSG_RESULT(yes)
+		PBX_$1=1
+		AC_DEFINE([HAVE_$1], 1, [Define if your system has the $1 headers.])
+		AC_DEFINE([HAVE_$1_VERSION], $4, [Define $1 headers version])
+	    ],
+	    [       AC_MSG_RESULT(no) ] 
+	)
+	CPPFLAGS="${saved_cppflags}"
+    fi
+])
+m4trace:acinclude.m4:181: -1- AC_DEFUN([AST_CHECK_GNU_MAKE], [AC_CACHE_CHECK(for GNU make, GNU_MAKE,
+   GNU_MAKE='Not Found' ;
+   GNU_MAKE_VERSION_MAJOR=0 ;
+   GNU_MAKE_VERSION_MINOR=0 ;
+   for a in make gmake gnumake ; do
+      if test -z "$a" ; then continue ; fi ;
+      if ( sh -c "$a --version" 2> /dev/null | grep GNU  2>&1 > /dev/null ) ;  then
+         GNU_MAKE=$a ;
+         GNU_MAKE_VERSION_MAJOR=`$GNU_MAKE --version | grep "GNU Make" | cut -f3 -d' ' | cut -f1 -d'.'`
+         GNU_MAKE_VERSION_MINOR=`$GNU_MAKE --version | grep "GNU Make" | cut -f2 -d'.' | cut -c1-2`
+         break;
+      fi
+   done ;
+) ;
+if test  "x$GNU_MAKE" = "xNot Found"  ; then
+   AC_MSG_ERROR( *** Please install GNU make.  It is required to build Asterisk!)
+   exit 1
+fi
+AC_SUBST([GNU_MAKE])
+])
+m4trace:acinclude.m4:204: -1- AC_DEFUN([AST_CHECK_PWLIB], [
+PWLIB_INCDIR=
+PWLIB_LIBDIR=
+AC_LANG_PUSH([C++])
+if test "${PWLIBDIR:-unset}" != "unset" ; then
+  AC_CHECK_HEADER(${PWLIBDIR}/version.h, HAS_PWLIB=1, )
+fi
+if test "${HAS_PWLIB:-unset}" = "unset" ; then
+  if test "${OPENH323DIR:-unset}" != "unset"; then
+    AC_CHECK_HEADER(${OPENH323DIR}/../pwlib/version.h, HAS_PWLIB=1, )
+  fi
+  if test "${HAS_PWLIB:-unset}" != "unset" ; then
+    PWLIBDIR="${OPENH323DIR}/../pwlib"
+  else
+    AC_CHECK_HEADER(${HOME}/pwlib/include/ptlib.h, HAS_PWLIB=1, )
+    if test "${HAS_PWLIB:-unset}" != "unset" ; then
+      PWLIBDIR="${HOME}/pwlib"
+    else
+      AC_CHECK_HEADER(/usr/local/include/ptlib.h, HAS_PWLIB=1, )
+      if test "${HAS_PWLIB:-unset}" != "unset" ; then
+        AC_PATH_PROG(PTLIB_CONFIG, ptlib-config, , /usr/local/bin)
+        if test "${PTLIB_CONFIG:-unset}" = "unset" ; then
+          AC_PATH_PROG(PTLIB_CONFIG, ptlib-config, , /usr/local/share/pwlib/make)
+        fi
+        PWLIB_INCDIR="/usr/local/include"
+        PWLIB_LIBDIR=`${PTLIB_CONFIG} --pwlibdir`
+        if test "${PWLIB_LIBDIR:-unset}" = "unset"; then
+          if test "x$LIB64" != "x"; then
+            PWLIB_LIBDIR="/usr/local/lib64"
+          else
+            PWLIB_LIBDIR="/usr/local/lib"
+          fi
+        fi
+        PWLIB_LIB=`${PTLIB_CONFIG} --ldflags --libs`
+        PWLIB_LIB="-L${PWLIB_LIBDIR} `echo ${PWLIB_LIB}`"
+      else
+        AC_CHECK_HEADER(/usr/include/ptlib.h, HAS_PWLIB=1, )
+        if test "${HAS_PWLIB:-unset}" != "unset" ; then
+          AC_PATH_PROG(PTLIB_CONFIG, ptlib-config, , /usr/share/pwlib/make)
+          PWLIB_INCDIR="/usr/include"
+          PWLIB_LIBDIR=`${PTLIB_CONFIG} --pwlibdir`
+          if test "${PWLIB_LIBDIR:-unset}" = "unset"; then
+            if test "x$LIB64" != "x"; then
+              PWLIB_LIBDIR="/usr/lib64"
+            else
+              PWLIB_LIBDIR="/usr/lib"
+            fi
+          fi
+          PWLIB_LIB=`${PTLIB_CONFIG} --ldflags --libs`
+          PWLIB_LIB="-L${PWLIB_LIBDIR} `echo ${PWLIB_LIB}`"
+        fi
+      fi
+    fi
+  fi
+fi
+
+#if test "${HAS_PWLIB:-unset}" = "unset" ; then
+#  echo "Cannot find pwlib - please install or set PWLIBDIR and try again"
+#  exit
+#fi
+
+if test "${HAS_PWLIB:-unset}" != "unset" ; then
+  if test "${PWLIBDIR:-unset}" = "unset" ; then
+    if test "${PTLIB_CONFIG:-unset}" != "unset" ; then
+      PWLIBDIR=`$PTLIB_CONFIG --prefix`
+    else
+      echo "Cannot find ptlib-config - please install and try again"
+      exit
+    fi
+  fi
+
+  if test "x$PWLIBDIR" = "x/usr" -o "x$PWLIBDIR" = "x/usr/"; then
+    PWLIBDIR="/usr/share/pwlib"
+    PWLIB_INCDIR="/usr/include"
+    if test "x$LIB64" != "x"; then
+      PWLIB_LIBDIR="/usr/lib64"
+    else
+      PWLIB_LIBDIR="/usr/lib"
+    fi
+  fi
+  if test "x$PWLIBDIR" = "x/usr/local" -o "x$PWLIBDIR" = "x/usr/"; then
+    PWLIBDIR="/usr/local/share/pwlib"
+    PWLIB_INCDIR="/usr/local/include"
+    if test "x$LIB64" != "x"; then
+      PWLIB_LIBDIR="/usr/local/lib64"
+    else
+      PWLIB_LIBDIR="/usr/local/lib"
+    fi
+  fi
+
+  if test "${PWLIB_INCDIR:-unset}" = "unset"; then
+    PWLIB_INCDIR="${PWLIBDIR}/include"
+  fi
+  if test "${PWLIB_LIBDIR:-unset}" = "unset"; then
+    PWLIB_LIBDIR="${PWLIBDIR}/lib"
+  fi
+
+  AC_SUBST([PWLIBDIR])
+  AC_SUBST([PWLIB_INCDIR])
+  AC_SUBST([PWLIB_LIBDIR])
+fi
+  AC_LANG_POP([C++])
+])
+m4trace:acinclude.m4:310: -1- AC_DEFUN([AST_CHECK_OPENH323_PLATFORM], [
+PWLIB_OSTYPE=
+case "$host_os" in
+  linux*)          PWLIB_OSTYPE=linux ;
+  		;;
+  freebsd* )       PWLIB_OSTYPE=FreeBSD ;
+  		;;
+  openbsd* )       PWLIB_OSTYPE=OpenBSD ;
+				   ENDLDLIBS="-lossaudio" ;
+		;;
+  netbsd* )        PWLIB_OSTYPE=NetBSD ;
+				   ENDLDLIBS="-lossaudio" ;
+		;;
+  solaris* | sunos* ) PWLIB_OSTYPE=solaris ;
+		;;
+  darwin* )	       PWLIB_OSTYPE=Darwin ;
+		;;
+  beos*)           PWLIB_OSTYPE=beos ;
+                   STDCCFLAGS="$STDCCFLAGS -D__BEOS__"
+		;;
+  cygwin*)         PWLIB_OSTYPE=cygwin ;
+		;;
+  mingw*)	       PWLIB_OSTYPE=mingw ;
+		           STDCCFLAGS="$STDCCFLAGS -mms-bitfields" ;
+		           ENDLDLIBS="-lwinmm -lwsock32 -lsnmpapi -lmpr -lcomdlg32 -lgdi32 -lavicap32" ;
+		;;
+  * )		       PWLIB_OSTYPE="$host_os" ;
+		           AC_MSG_WARN("OS $PWLIB_OSTYPE not recognized - proceed with caution!") ;
+		;;
+esac
+
+PWLIB_MACHTYPE=
+case "$host_cpu" in
+   x86 | i686 | i586 | i486 | i386 ) PWLIB_MACHTYPE=x86
+                   ;;
+
+   x86_64)	   PWLIB_MACHTYPE=x86_64 ;
+		   P_64BIT=1 ;
+                   LIB64=1 ;
+		   ;;
+
+   alpha | alphaev56 | alphaev6 | alphaev67 | alphaev7) PWLIB_MACHTYPE=alpha ;
+		   P_64BIT=1 ;
+		   ;;
+
+   sparc )         PWLIB_MACHTYPE=sparc ;
+		   ;;
+
+   powerpc )       PWLIB_MACHTYPE=ppc ;
+		   ;;
+
+   ppc )           PWLIB_MACHTYPE=ppc ;
+		   ;;
+
+   powerpc64 )     PWLIB_MACHTYPE=ppc64 ;
+		   P_64BIT=1 ;
+                   LIB64=1 ;
+		   ;;
+
+   ppc64 )         PWLIB_MACHTYPE=ppc64 ;
+		   P_64BIT=1 ;
+                   LIB64=1 ;
+		   ;;
+
+   ia64)	   PWLIB_MACHTYPE=ia64 ;
+		   P_64BIT=1 ;
+	  	   ;;
+
+   s390x)	   PWLIB_MACHTYPE=s390x ;
+		   P_64BIT=1 ;
+                   LIB64=1 ;
+		   ;;
+
+   s390)	   PWLIB_MACHTYPE=s390 ;
+		   ;;
+
+   * )		   PWLIB_MACHTYPE="$host_cpu";
+		   AC_MSG_WARN("CPU $PWLIB_MACHTYPE not recognized - proceed with caution!") ;;
+esac
+
+PWLIB_PLATFORM="${PWLIB_OSTYPE}_${PWLIB_MACHTYPE}"
+
+AC_SUBST([PWLIB_PLATFORM])
+])
+m4trace:acinclude.m4:397: -1- AC_DEFUN([AST_CHECK_OPENH323], [
+OPENH323_INCDIR=
+OPENH323_LIBDIR=
+AC_LANG_PUSH([C++])
+if test "${OPENH323DIR:-unset}" != "unset" ; then
+  AC_CHECK_HEADER(${OPENH323DIR}/version.h, HAS_OPENH323=1, )
+fi
+if test "${HAS_OPENH323:-unset}" = "unset" ; then
+  AC_CHECK_HEADER(${PWLIBDIR}/../openh323/version.h, OPENH323DIR="${PWLIBDIR}/../openh323"; HAS_OPENH323=1, )
+  if test "${HAS_OPENH323:-unset}" != "unset" ; then
+    OPENH323DIR="${PWLIBDIR}/../openh323"
+    saved_cppflags="${CPPFLAGS}"
+    CPPFLAGS="${CPPFLAGS} -I${PWLIB_INCDIR}/openh323 -I${PWLIB_INCDIR}"
+    AC_CHECK_HEADER(${OPENH323DIR}/include/h323.h, , OPENH323_INCDIR="${PWLIB_INCDIR}/openh323"; OPENH323_LIBDIR="${PWLIB_LIBDIR}", [#include <ptlib.h>])
+    CPPFLAGS="${saved_cppflags}"
+  else
+    saved_cppflags="${CPPFLAGS}"
+    CPPFLAGS="${CPPFLAGS} -I${HOME}/openh323/include -I${PWLIB_INCDIR}"
+    AC_CHECK_HEADER(${HOME}/openh323/include/h323.h, HAS_OPENH323=1, )
+    CPPFLAGS="${saved_cppflags}"
+    if test "${HAS_OPENH323:-unset}" != "unset" ; then
+      OPENH323DIR="${HOME}/openh323"
+    else
+      saved_cppflags="${CPPFLAGS}"
+      CPPFLAGS="${CPPFLAGS} -I/usr/local/include/openh323 -I${PWLIB_INCDIR}"
+      AC_CHECK_HEADER(/usr/local/include/openh323/h323.h, HAS_OPENH323=1, )
+      CPPFLAGS="${saved_cppflags}"
+      if test "${HAS_OPENH323:-unset}" != "unset" ; then
+        OPENH323DIR="/usr/local/share/openh323"
+        OPENH323_INCDIR="/usr/local/include/openh323"
+        if test "x$LIB64" != "x"; then
+          OPENH323_LIBDIR="/usr/local/lib64"
+        else
+          OPENH323_LIBDIR="/usr/local/lib"
+        fi
+      else
+        saved_cppflags="${CPPFLAGS}"
+        CPPFLAGS="${CPPFLAGS} -I/usr/include/openh323 -I${PWLIB_INCDIR}"
+        AC_CHECK_HEADER(/usr/include/openh323/h323.h, HAS_OPENH323=1, , [#include <ptlib.h>])
+        CPPFLAGS="${saved_cppflags}"
+        if test "${HAS_OPENH323:-unset}" != "unset" ; then
+          OPENH323DIR="/usr/share/openh323"
+          OPENH323_INCDIR="/usr/include/openh323"
+          if test "x$LIB64" != "x"; then
+            OPENH323_LIBDIR="/usr/lib64"
+          else
+            OPENH323_LIBDIR="/usr/lib"
+          fi
+        fi
+      fi
+    fi
+  fi
+fi
+
+if test "${HAS_OPENH323:-unset}" != "unset" ; then
+  if test "${OPENH323_INCDIR:-unset}" = "unset"; then
+    OPENH323_INCDIR="${OPENH323DIR}/include"
+  fi
+  if test "${OPENH323_LIBDIR:-unset}" = "unset"; then
+    OPENH323_LIBDIR="${OPENH323DIR}/lib"
+  fi
+
+  OPENH323_LIBDIR="`cd ${OPENH323_LIBDIR}; pwd`"
+  OPENH323_INCDIR="`cd ${OPENH323_INCDIR}; pwd`"
+  OPENH323DIR="`cd ${OPENH323DIR}; pwd`"
+
+  AC_SUBST([OPENH323DIR])
+  AC_SUBST([OPENH323_INCDIR])
+  AC_SUBST([OPENH323_LIBDIR])
+fi
+  AC_LANG_POP([C++])
+])
+m4trace:acinclude.m4:472: -1- AC_DEFUN([AST_CHECK_PWLIB_VERSION], [
+	if test "${HAS_$2:-unset}" != "unset"; then
+		$2_VERSION=`grep "$2_VERSION" ${$2_INCDIR}/$3 | sed -e 's/[[[:space:]]]\{1,\}/ /g' | cut -f3 -d ' ' | sed -e 's/"//g'`
+		$2_MAJOR_VERSION=`echo ${$2_VERSION} | cut -f1 -d.`
+		$2_MINOR_VERSION=`echo ${$2_VERSION} | cut -f2 -d.`
+		$2_BUILD_NUMBER=`echo ${$2_VERSION} | cut -f3 -d.`
+		let $2_VER=${$2_MAJOR_VERSION}*10000+${$2_MINOR_VERSION}*100+${$2_BUILD_NUMBER}
+		let $2_REQ=$4*10000+$5*100+$6
+
+		AC_MSG_CHECKING(if $1 version ${$2_VERSION} is compatible with chan_h323)
+		if test ${$2_VER} -lt ${$2_REQ}; then
+			AC_MSG_RESULT(no)
+			unset HAS_$2
+		else
+			AC_MSG_RESULT(yes)
+		fi
+	fi
+])
+m4trace:acinclude.m4:493: -1- AC_DEFUN([AST_CHECK_PWLIB_BUILD], [
+	if test "${HAS_$2:-unset}" != "unset"; then
+	   AC_MSG_CHECKING($1 installation validity)
+
+	   saved_cppflags="${CPPFLAGS}"
+	   saved_libs="${LIBS}"
+	   if test "${$2_LIB:-unset}" != "unset"; then
+	      LIBS="${LIBS} ${$2_LIB} $7"
+	   else
+    	      LIBS="${LIBS} -L${$2_LIBDIR} -l${PLATFORM_$2} $7"
+	   fi
+	   CPPFLAGS="${CPPFLAGS} -I${$2_INCDIR} $6"
+
+	   AC_LANG_PUSH([C++])
+
+	   AC_LINK_IFELSE(
+		[AC_LANG_PROGRAM([$4],[$5])],
+		[	AC_MSG_RESULT(yes) 
+			ac_cv_lib_$2="yes" 
+		],
+		[	AC_MSG_RESULT(no) 
+			ac_cv_lib_$2="no" 
+		]
+		)
+
+	   AC_LANG_POP([C++])
+
+	   LIBS="${saved_libs}"
+	   CPPFLAGS="${saved_cppflags}"
+
+	   if test "${ac_cv_lib_$2}" = "yes"; then
+	      if test "${$2_LIB:-undef}" = "undef"; then
+	         if test "${$2_LIBDIR}" != "" -a "${$2_LIBDIR}" != "/usr/lib"; then
+	            $2_LIB="-L${$2_LIBDIR} -l${PLATFORM_$2}"
+	         else
+	            $2_LIB="-l${PLATFORM_$2}"
+	         fi
+	      fi
+	      if test "${$2_INCDIR}" != "" -a "${$2_INCDIR}" != "/usr/include"; then
+	         $2_INCLUDE="-I${$2_INCDIR}"
+	      fi
+	   	  PBX_$2=1
+	   	  AC_DEFINE([HAVE_$2], 1, [$3])
+	   fi
+	fi
+])
+m4trace:acinclude.m4:541: -1- AC_DEFUN([AST_CHECK_OPENH323_BUILD], [
+	if test "${HAS_OPENH323:-unset}" != "unset"; then
+		AC_MSG_CHECKING(OpenH323 build option)
+		OPENH323_SUFFIX=
+		prefixes="h323_${PWLIB_PLATFORM}_ h323_ openh323"
+		for pfx in $prefixes; do
+			files=`ls -l ${OPENH323_LIBDIR}/lib${pfx}*.so* 2>/dev/null`
+			libfile=
+			if test -n "$files"; then
+				for f in $files; do
+					if test -f $f -a ! -L $f; then
+						libfile=`basename $f`
+						break;
+					fi
+				done
+			fi
+			if test -n "$libfile"; then
+				OPENH323_PREFIX=$pfx
+				break;
+			fi
+		done
+		if test "${libfile:-unset}" != "unset"; then
+			OPENH323_SUFFIX=`eval "echo ${libfile} | sed -e 's/lib${OPENH323_PREFIX}\(@<:@^.@:>@*\)\..*/\1/'"`
+		fi
+		case "${OPENH323_SUFFIX}" in
+			n)
+				OPENH323_BUILD="notrace";;
+			r)
+				OPENH323_BUILD="opt";;
+			d)
+				OPENH323_BUILD="debug";;
+			*)
+				if test "${OPENH323_PREFIX:-undef}" = "openh323"; then
+					notrace=`eval "grep NOTRACE ${OPENH323DIR}/openh323u.mak | grep = | sed -e 's/@<:@A-Z0-9_@:>@*@<:@ 	@:>@*=@<:@ 	@:>@*//'"`
+					if test "x$notrace" = "x"; then
+						notrace="0"
+					fi
+					if test "$notrace" -ne 0; then
+						OPENH323_BUILD="notrace"
+					else
+						OPENH323_BUILD="opt"
+					fi
+					OPENH323_LIB="-l${OPENH323_PREFIX}"
+				else
+					OPENH323_BUILD="notrace"
+				fi
+				;;
+		esac
+		AC_MSG_RESULT(${OPENH323_BUILD})
+
+		AC_SUBST([OPENH323_SUFFIX])
+		AC_SUBST([OPENH323_BUILD])
+	fi
+])
+m4trace:acinclude.m4:602: -1- AC_DEFUN([AST_FUNC_FORK], [AC_REQUIRE([AC_TYPE_PID_T])dnl
+AC_CHECK_HEADERS(vfork.h)
+AC_CHECK_FUNCS(fork vfork)
+if test "x$ac_cv_func_fork" = xyes; then
+  _AST_FUNC_FORK
+else
+  ac_cv_func_fork_works=$ac_cv_func_fork
+fi
+if test "x$ac_cv_func_fork_works" = xcross; then
+  case $host in
+    *-*-amigaos* | *-*-msdosdjgpp* | *-*-uclinux* | *-*-linux-uclibc* )
+      # Override, as these systems have only a dummy fork() stub
+      ac_cv_func_fork_works=no
+      ;;
+    *)
+      ac_cv_func_fork_works=yes
+      ;;
+  esac
+  AC_MSG_WARN([result $ac_cv_func_fork_works guessed because of cross compilation])
+fi
+ac_cv_func_vfork_works=$ac_cv_func_vfork
+if test "x$ac_cv_func_vfork" = xyes; then
+  _AC_FUNC_VFORK
+fi;
+if test "x$ac_cv_func_fork_works" = xcross; then
+  ac_cv_func_vfork_works=$ac_cv_func_vfork
+  AC_MSG_WARN([result $ac_cv_func_vfork_works guessed because of cross compilation])
+fi
+
+if test "x$ac_cv_func_vfork_works" = xyes; then
+  AC_DEFINE(HAVE_WORKING_VFORK, 1, [Define to 1 if `vfork' works.])
+else
+  AC_DEFINE(vfork, fork, [Define as `fork' if `vfork' does not work.])
+fi
+if test "x$ac_cv_func_fork_works" = xyes; then
+  AC_DEFINE(HAVE_WORKING_FORK, 1, [Define to 1 if `fork' works.])
+fi
+])
+m4trace:acinclude.m4:645: -1- AC_DEFUN([_AST_FUNC_FORK], [AC_CACHE_CHECK(for working fork, ac_cv_func_fork_works,
+    [AC_RUN_IFELSE(
+      [AC_LANG_PROGRAM([AC_INCLUDES_DEFAULT],
+	[
+	  /* By Ruediger Kuhlmann. */
+	  return fork () < 0;
+	])],
+      [ac_cv_func_fork_works=yes],
+      [ac_cv_func_fork_works=no],
+      [ac_cv_func_fork_works=cross])])
+])
+m4trace:acinclude.m4:661: -1- AC_DEFUN([AST_PROG_LD], [AC_ARG_WITH([gnu-ld],
+    [AC_HELP_STRING([--with-gnu-ld],
+	[assume the C compiler uses GNU ld @<:@default=no@:>@])],
+    [test "$withval" = no || with_gnu_ld=yes],
+    [with_gnu_ld=no])
+AC_REQUIRE([AST_PROG_SED])dnl
+AC_REQUIRE([AC_PROG_CC])dnl
+AC_REQUIRE([AC_CANONICAL_HOST])dnl
+AC_REQUIRE([AC_CANONICAL_BUILD])dnl
+ac_prog=ld
+if test "$GCC" = yes; then
+  # Check if gcc -print-prog-name=ld gives a path.
+  AC_MSG_CHECKING([for ld used by $CC])
+  case $host in
+  *-*-mingw*)
+    # gcc leaves a trailing carriage return which upsets mingw
+    ac_prog=`($CC -print-prog-name=ld) 2>&5 | tr -d '\015'` ;;
+  *)
+    ac_prog=`($CC -print-prog-name=ld) 2>&5` ;;
+  esac
+  case $ac_prog in
+    # Accept absolute paths.
+    [[\\/]]* | ?:[[\\/]]*)
+      re_direlt='/[[^/]][[^/]]*/\.\./'
+      # Canonicalize the pathname of ld
+      ac_prog=`echo $ac_prog| $SED 's%\\\\%/%g'`
+      while echo $ac_prog | grep "$re_direlt" > /dev/null 2>&1; do
+	ac_prog=`echo $ac_prog| $SED "s%$re_direlt%/%"`
+      done
+      test -z "$LD" && LD="$ac_prog"
+      ;;
+  "")
+    # If it fails, then pretend we aren't using GCC.
+    ac_prog=ld
+    ;;
+  *)
+    # If it is relative, then search for the first ld in PATH.
+    with_gnu_ld=unknown
+    ;;
+  esac
+elif test "$with_gnu_ld" = yes; then
+  AC_MSG_CHECKING([for GNU ld])
+else
+  AC_MSG_CHECKING([for non-GNU ld])
+fi
+AC_CACHE_VAL(lt_cv_path_LD,
+[if test -z "$LD"; then
+  lt_save_ifs="$IFS"; IFS=$PATH_SEPARATOR
+  for ac_dir in $PATH; do
+    IFS="$lt_save_ifs"
+    test -z "$ac_dir" && ac_dir=.
+    if test -f "$ac_dir/$ac_prog" || test -f "$ac_dir/$ac_prog$ac_exeext"; then
+      lt_cv_path_LD="$ac_dir/$ac_prog"
+      # Check to see if the program is GNU ld.  I'd rather use --version,
+      # but apparently some variants of GNU ld only accept -v.
+      # Break only if it was the GNU/non-GNU ld that we prefer.
+      case `"$lt_cv_path_LD" -v 2>&1 </dev/null` in
+      *GNU* | *'with BFD'*)
+	test "$with_gnu_ld" != no && break
+	;;
+      *)
+	test "$with_gnu_ld" != yes && break
+	;;
+      esac
+    fi
+  done
+  IFS="$lt_save_ifs"
+else
+  lt_cv_path_LD="$LD" # Let the user override the test with a path.
+fi])
+LD="$lt_cv_path_LD"
+if test -n "$LD"; then
+  AC_MSG_RESULT($LD)
+else
+  AC_MSG_RESULT(no)
+fi
+test -z "$LD" && AC_MSG_ERROR([no acceptable ld found in \$PATH])
+AST_PROG_LD_GNU
+])
+m4trace:acinclude.m4:745: -1- AC_DEFUN([AST_PROG_LD_GNU], [AC_REQUIRE([AST_PROG_EGREP])dnl
+AC_CACHE_CHECK([if the linker ($LD) is GNU ld], lt_cv_prog_gnu_ld,
+[# I'd rather use --version here, but apparently some GNU lds only accept -v.
+case `$LD -v 2>&1 </dev/null` in
+*GNU* | *'with BFD'*)
+  lt_cv_prog_gnu_ld=yes
+  ;;
+*)
+  lt_cv_prog_gnu_ld=no
+  ;;
+esac])
+with_gnu_ld=$lt_cv_prog_gnu_ld
+])
+m4trace:acinclude.m4:762: -1- AC_DEFUN([AST_PROG_EGREP], [AC_CACHE_CHECK([for egrep], [ac_cv_prog_egrep],
+   [if echo a | (grep -E '(a|b)') >/dev/null 2>&1
+    then ac_cv_prog_egrep='grep -E'
+    else ac_cv_prog_egrep='egrep'
+    fi])
+ EGREP=$ac_cv_prog_egrep
+ AC_SUBST([EGREP])
+])
+m4trace:acinclude.m4:776: -1- AC_DEFUN([AST_PROG_SED], [AC_CACHE_CHECK([for a sed that does not truncate output], ac_cv_path_SED,
+    [dnl ac_script should not contain more than 99 commands (for HP-UX sed),
+     dnl but more than about 7000 bytes, to catch a limit in Solaris 8 /usr/ucb/sed.
+     ac_script=s/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb/
+     for ac_i in 1 2 3 4 5 6 7; do
+       ac_script="$ac_script$as_nl$ac_script"
+     done
+     echo "$ac_script" | sed 99q >conftest.sed
+     $as_unset ac_script || ac_script=
+     _AC_PATH_PROG_FEATURE_CHECK(SED, [sed gsed],
+	[_AC_FEATURE_CHECK_LENGTH([ac_path_SED], [ac_cv_path_SED],
+		["$ac_path_SED" -f conftest.sed])])])
+ SED="$ac_cv_path_SED"
+ AC_SUBST([SED])dnl
+ rm -f conftest.sed
+])
+m4trace:acinclude.m4:842: -1- AC_DEFUN([ACX_PTHREAD], [
+AC_REQUIRE([AC_CANONICAL_HOST])
+AC_LANG_SAVE
+AC_LANG_C
+acx_pthread_ok=no
+
+# We used to check for pthread.h first, but this fails if pthread.h
+# requires special compiler flags (e.g. on True64 or Sequent).
+# It gets checked for in the link test anyway.
+
+# First of all, check if the user has set any of the PTHREAD_LIBS,
+# etcetera environment variables, and if threads linking works using
+# them:
+if test x"$PTHREAD_LIBS$PTHREAD_CFLAGS" != x; then
+        save_CFLAGS="$CFLAGS"
+        CFLAGS="$CFLAGS $PTHREAD_CFLAGS"
+        save_LIBS="$LIBS"
+        LIBS="$PTHREAD_LIBS $LIBS"
+        AC_MSG_CHECKING([for pthread_join in LIBS=$PTHREAD_LIBS with CFLAGS=$PTHREAD_CFLAGS])
+        AC_TRY_LINK_FUNC(pthread_join, acx_pthread_ok=yes)
+        AC_MSG_RESULT($acx_pthread_ok)
+        if test x"$acx_pthread_ok" = xno; then
+                PTHREAD_LIBS=""
+                PTHREAD_CFLAGS=""
+        fi
+        LIBS="$save_LIBS"
+        CFLAGS="$save_CFLAGS"
+fi
+
+# We must check for the threads library under a number of different
+# names; the ordering is very important because some systems
+# (e.g. DEC) have both -lpthread and -lpthreads, where one of the
+# libraries is broken (non-POSIX).
+
+# Create a list of thread flags to try.  Items starting with a "-" are
+# C compiler flags, and other items are library names, except for "none"
+# which indicates that we try without any flags at all, and "pthread-config"
+# which is a program returning the flags for the Pth emulation library.
+
+acx_pthread_flags="pthreads none -Kthread -kthread lthread -pthread -pthreads -mthreads pthread --thread-safe -mt pthread-config"
+
+# The ordering *is* (sometimes) important.  Some notes on the
+# individual items follow:
+
+# pthreads: AIX (must check this before -lpthread)
+# none: in case threads are in libc; should be tried before -Kthread and
+#       other compiler flags to prevent continual compiler warnings
+# -Kthread: Sequent (threads in libc, but -Kthread needed for pthread.h)
+# -kthread: FreeBSD kernel threads (preferred to -pthread since SMP-able)
+# lthread: LinuxThreads port on FreeBSD (also preferred to -pthread)
+# -pthread: Linux/gcc (kernel threads), BSD/gcc (userland threads)
+# -pthreads: Solaris/gcc
+# -mthreads: Mingw32/gcc, Lynx/gcc
+# -mt: Sun Workshop C (may only link SunOS threads [-lthread], but it
+#      doesn't hurt to check since this sometimes defines pthreads too;
+#      also defines -D_REENTRANT)
+#      ... -mt is also the pthreads flag for HP/aCC
+# pthread: Linux, etcetera
+# --thread-safe: KAI C++
+# pthread-config: use pthread-config program (for GNU Pth library)
+
+case "${host_cpu}-${host_os}" in
+        *solaris*)
+
+        # On Solaris (at least, for some versions), libc contains stubbed
+        # (non-functional) versions of the pthreads routines, so link-based
+        # tests will erroneously succeed.  (We need to link with -pthreads/-mt/
+        # -lpthread.)  (The stubs are missing pthread_cleanup_push, or rather
+        # a function called by this macro, so we could check for that, but
+        # who knows whether they'll stub that too in a future libc.)  So,
+        # we'll just look for -pthreads and -lpthread first:
+
+        acx_pthread_flags="-pthreads pthread -mt -pthread $acx_pthread_flags"
+        ;;
+esac
+
+if test x"$acx_pthread_ok" = xno; then
+for flag in $acx_pthread_flags; do
+
+        case $flag in
+                none)
+                AC_MSG_CHECKING([whether pthreads work without any flags])
+                ;;
+
+                -*)
+                AC_MSG_CHECKING([whether pthreads work with $flag])
+                PTHREAD_CFLAGS="$flag"
+                ;;
+
+		pthread-config)
+		AC_CHECK_PROG(acx_pthread_config, pthread-config, yes, no)
+		if test x"$acx_pthread_config" = xno; then continue; fi
+		PTHREAD_CFLAGS="`pthread-config --cflags`"
+		PTHREAD_LIBS="`pthread-config --ldflags` `pthread-config --libs`"
+		;;
+
+                *)
+                AC_MSG_CHECKING([for the pthreads library -l$flag])
+                PTHREAD_LIBS="-l$flag"
+                ;;
+        esac
+
+        save_LIBS="$LIBS"
+        save_CFLAGS="$CFLAGS"
+        LIBS="$PTHREAD_LIBS $LIBS"
+        CFLAGS="$CFLAGS $PTHREAD_CFLAGS"
+
+        # Check for various functions.  We must include pthread.h,
+        # since some functions may be macros.  (On the Sequent, we
+        # need a special flag -Kthread to make this header compile.)
+        # We check for pthread_join because it is in -lpthread on IRIX
+        # while pthread_create is in libc.  We check for pthread_attr_init
+        # due to DEC craziness with -lpthreads.  We check for
+        # pthread_cleanup_push because it is one of the few pthread
+        # functions on Solaris that doesn't have a non-functional libc stub.
+        # We try pthread_create on general principles.
+        AC_TRY_LINK([#include <pthread.h>],
+                    [pthread_t th; pthread_join(th, 0);
+                     pthread_attr_init(0); pthread_cleanup_push(0, 0);
+                     pthread_create(0,0,0,0); pthread_cleanup_pop(0); ],
+                    [acx_pthread_ok=yes])
+
+        LIBS="$save_LIBS"
+        CFLAGS="$save_CFLAGS"
+
+        AC_MSG_RESULT($acx_pthread_ok)
+        if test "x$acx_pthread_ok" = xyes; then
+                break;
+        fi
+
+        PTHREAD_LIBS=""
+        PTHREAD_CFLAGS=""
+done
+fi
+
+# Various other checks:
+if test "x$acx_pthread_ok" = xyes; then
+        save_LIBS="$LIBS"
+        LIBS="$PTHREAD_LIBS $LIBS"
+        save_CFLAGS="$CFLAGS"
+        CFLAGS="$CFLAGS $PTHREAD_CFLAGS"
+
+        # Detect AIX lossage: JOINABLE attribute is called UNDETACHED.
+	AC_MSG_CHECKING([for joinable pthread attribute])
+	attr_name=unknown
+	for attr in PTHREAD_CREATE_JOINABLE PTHREAD_CREATE_UNDETACHED; do
+	    AC_TRY_LINK([#include <pthread.h>], [int attr=$attr; return attr;],
+                        [attr_name=$attr; break])
+	done
+        AC_MSG_RESULT($attr_name)
+        if test "$attr_name" != PTHREAD_CREATE_JOINABLE; then
+            AC_DEFINE_UNQUOTED(PTHREAD_CREATE_JOINABLE, $attr_name,
+                               [Define to necessary symbol if this constant
+                                uses a non-standard name on your system.])
+        fi
+
+        AC_MSG_CHECKING([if more special flags are required for pthreads])
+        flag=no
+        case "${host_cpu}-${host_os}" in
+            *-aix* | *-freebsd* | *-darwin*) flag="-D_THREAD_SAFE";;
+            *solaris* | *-osf* | *-hpux*) flag="-D_REENTRANT";;
+        esac
+        AC_MSG_RESULT(${flag})
+        if test "x$flag" != xno; then
+            PTHREAD_CFLAGS="$flag $PTHREAD_CFLAGS"
+        fi
+
+        LIBS="$save_LIBS"
+        CFLAGS="$save_CFLAGS"
+
+        # More AIX lossage: must compile with xlc_r or cc_r
+	if test x"$GCC" != xyes; then
+          AC_CHECK_PROGS(PTHREAD_CC, xlc_r cc_r, ${CC})
+        else
+          PTHREAD_CC=$CC
+	fi
+else
+        PTHREAD_CC="$CC"
+fi
+
+AC_SUBST(PTHREAD_LIBS)
+AC_SUBST(PTHREAD_CFLAGS)
+AC_SUBST(PTHREAD_CC)
+
+# Finally, execute ACTION-IF-FOUND/ACTION-IF-NOT-FOUND:
+if test x"$acx_pthread_ok" = xyes; then
+        ifelse([$1],,AC_DEFINE(HAVE_PTHREAD,1,[Define if you have POSIX threads libraries and header files.]),[$1])
+        :
+else
+        acx_pthread_ok=no
+        $2
+fi
+AC_LANG_RESTORE
+])
+m4trace:configure.ac:5: -1- m4_pattern_forbid([^_?A[CHUM]_])
+m4trace:configure.ac:5: -1- m4_pattern_forbid([_AC_])
+m4trace:configure.ac:5: -1- m4_pattern_forbid([^LIBOBJS$], [do not use LIBOBJS directly, use AC_LIBOBJ (see section `AC_LIBOBJ vs LIBOBJS'])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^AS_FLAGS$])
+m4trace:configure.ac:5: -1- m4_pattern_forbid([^_?m4_])
+m4trace:configure.ac:5: -1- m4_pattern_forbid([^dnl$])
+m4trace:configure.ac:5: -1- m4_pattern_forbid([^_?AS_])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^SHELL$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PATH_SEPARATOR$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PACKAGE_NAME$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PACKAGE_TARNAME$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PACKAGE_VERSION$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PACKAGE_STRING$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PACKAGE_BUGREPORT$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PACKAGE_URL$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^exec_prefix$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^prefix$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^program_transform_name$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^bindir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^sbindir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^libexecdir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^datarootdir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^datadir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^sysconfdir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^sharedstatedir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^localstatedir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^includedir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^oldincludedir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^docdir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^infodir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^htmldir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^dvidir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^pdfdir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^psdir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^libdir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^localedir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^mandir$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PACKAGE_NAME$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PACKAGE_TARNAME$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PACKAGE_VERSION$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PACKAGE_STRING$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PACKAGE_BUGREPORT$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^PACKAGE_URL$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^DEFS$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^ECHO_C$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^ECHO_N$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^ECHO_T$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^LIBS$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^build_alias$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^host_alias$])
+m4trace:configure.ac:5: -1- m4_pattern_allow([^target_alias$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^build$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^build_cpu$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^build_vendor$])
+m4trace:configure.ac:8: -1- m4_pattern_allow([^build_os$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^host$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^host_cpu$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^host_vendor$])
+m4trace:configure.ac:9: -1- m4_pattern_allow([^host_os$])
+m4trace:configure.ac:20: -1- _m4_warn([obsolete], [The macro `AC_GNU_SOURCE' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/specific.m4:314: AC_GNU_SOURCE is expanded from...
+configure.ac:20: the top level])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^CFLAGS$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^LDFLAGS$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^LIBS$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^CPPFLAGS$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^ac_ct_CC$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^EXEEXT$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^OBJEXT$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^CPP$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^CPPFLAGS$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^CPP$])
+m4trace:configure.ac:20: -1- AC_PROG_EGREP
+m4trace:configure.ac:20: -1- m4_pattern_allow([^GREP$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^EGREP$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^STDC_HEADERS$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^_POSIX_SOURCE$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^_POSIX_1_SOURCE$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^_MINIX$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^__EXTENSIONS__$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^_ALL_SOURCE$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^_GNU_SOURCE$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^_POSIX_PTHREAD_SEMANTICS$])
+m4trace:configure.ac:20: -1- m4_pattern_allow([^_TANDEM_SOURCE$])
+m4trace:configure.ac:51: -1- m4_pattern_allow([^BUILD_PLATFORM$])
+m4trace:configure.ac:52: -1- m4_pattern_allow([^BUILD_CPU$])
+m4trace:configure.ac:53: -1- m4_pattern_allow([^BUILD_VENDOR$])
+m4trace:configure.ac:54: -1- m4_pattern_allow([^BUILD_OS$])
+m4trace:configure.ac:61: -1- m4_pattern_allow([^HOST_PLATFORM$])
+m4trace:configure.ac:62: -1- m4_pattern_allow([^HOST_CPU$])
+m4trace:configure.ac:63: -1- m4_pattern_allow([^HOST_VENDOR$])
+m4trace:configure.ac:64: -1- m4_pattern_allow([^HOST_OS$])
+m4trace:configure.ac:84: -1- m4_pattern_allow([^OSARCH$])
+m4trace:configure.ac:87: -1- m4_pattern_allow([^UNAME$])
+m4trace:configure.ac:91: -1- m4_pattern_allow([^PBX_OSREV$])
+m4trace:configure.ac:108: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:109: -1- m4_pattern_allow([^CXX$])
+m4trace:configure.ac:110: -1- m4_pattern_allow([^LD$])
+m4trace:configure.ac:111: -1- m4_pattern_allow([^RANLIB$])
+m4trace:configure.ac:115: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:115: -1- m4_pattern_allow([^CFLAGS$])
+m4trace:configure.ac:115: -1- m4_pattern_allow([^LDFLAGS$])
+m4trace:configure.ac:115: -1- m4_pattern_allow([^LIBS$])
+m4trace:configure.ac:115: -1- m4_pattern_allow([^CPPFLAGS$])
+m4trace:configure.ac:115: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:115: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:115: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:115: -1- m4_pattern_allow([^CC$])
+m4trace:configure.ac:115: -1- m4_pattern_allow([^ac_ct_CC$])
+m4trace:configure.ac:116: -1- m4_pattern_allow([^CXX$])
+m4trace:configure.ac:116: -1- m4_pattern_allow([^CXXFLAGS$])
+m4trace:configure.ac:116: -1- m4_pattern_allow([^LDFLAGS$])
+m4trace:configure.ac:116: -1- m4_pattern_allow([^LIBS$])
+m4trace:configure.ac:116: -1- m4_pattern_allow([^CPPFLAGS$])
+m4trace:configure.ac:116: -1- m4_pattern_allow([^CXX$])
+m4trace:configure.ac:116: -1- m4_pattern_allow([^ac_ct_CXX$])
+m4trace:configure.ac:117: -1- m4_pattern_allow([^CPP$])
+m4trace:configure.ac:117: -1- m4_pattern_allow([^CPPFLAGS$])
+m4trace:configure.ac:117: -1- m4_pattern_allow([^CPP$])
+m4trace:configure.ac:118: -1- m4_pattern_allow([^CXXCPP$])
+m4trace:configure.ac:118: -1- m4_pattern_allow([^CPPFLAGS$])
+m4trace:configure.ac:118: -1- m4_pattern_allow([^CXXCPP$])
+m4trace:configure.ac:121: -1- AST_PROG_LD
+m4trace:configure.ac:121: -1- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+../../lib/autoconf/general.m4:1481: AC_ARG_WITH is expanded from...
+acinclude.m4:661: AST_PROG_LD is expanded from...
+configure.ac:121: the top level])
+m4trace:configure.ac:121: -1- AST_PROG_SED
+m4trace:configure.ac:121: -1- m4_pattern_allow([^SED$])
+m4trace:configure.ac:121: -1- AST_PROG_LD_GNU
+m4trace:configure.ac:121: -1- AST_PROG_EGREP
+m4trace:configure.ac:121: -1- m4_pattern_allow([^EGREP$])
+m4trace:configure.ac:122: -1- m4_pattern_allow([^AWK$])
+m4trace:configure.ac:123: -1- m4_pattern_allow([^INSTALL_PROGRAM$])
+m4trace:configure.ac:123: -1- m4_pattern_allow([^INSTALL_SCRIPT$])
+m4trace:configure.ac:123: -1- m4_pattern_allow([^INSTALL_DATA$])
+m4trace:configure.ac:124: -1- m4_pattern_allow([^LN_S$])
+m4trace:configure.ac:125: -1- m4_pattern_allow([^RANLIB$])
+m4trace:configure.ac:126: -1- _m4_warn([syntax], [AC_CACHE_VAL(GNU_MAKE, ...): suspicious cache-id, must contain _cv_ to be cached], [../../lib/autoconf/general.m4:2031: AC_CACHE_VAL is expanded from...
+../../lib/autoconf/general.m4:2052: AC_CACHE_CHECK is expanded from...
+acinclude.m4:181: AST_CHECK_GNU_MAKE is expanded from...
+configure.ac:126: the top level])
+m4trace:configure.ac:126: -1- m4_pattern_allow([^GNU_MAKE$])
+m4trace:configure.ac:127: -1- AC_PROG_EGREP
+m4trace:configure.ac:127: -1- m4_pattern_allow([^EGREP$])
+m4trace:configure.ac:129: -1- m4_pattern_allow([^OPENSSL$])
+m4trace:configure.ac:129: -1- m4_pattern_allow([^ac_ct_OPENSSL$])
+m4trace:configure.ac:132: -1- m4_pattern_allow([^STRIP$])
+m4trace:configure.ac:133: -1- m4_pattern_allow([^AR$])
+m4trace:configure.ac:139: -1- m4_pattern_allow([^GNU_LD$])
+m4trace:configure.ac:141: -1- m4_pattern_allow([^AWK$])
+m4trace:configure.ac:142: -1- m4_pattern_allow([^GREP$])
+m4trace:configure.ac:143: -1- m4_pattern_allow([^FIND$])
+m4trace:configure.ac:144: -1- m4_pattern_allow([^COMPRESS$])
+m4trace:configure.ac:145: -1- m4_pattern_allow([^BASENAME$])
+m4trace:configure.ac:146: -1- m4_pattern_allow([^ID$])
+m4trace:configure.ac:147: -1- m4_pattern_allow([^DIRNAME$])
+m4trace:configure.ac:148: -1- m4_pattern_allow([^SHELL$])
+m4trace:configure.ac:149: -1- m4_pattern_allow([^LN$])
+m4trace:configure.ac:150: -1- m4_pattern_allow([^DOT$])
+m4trace:configure.ac:151: -1- m4_pattern_allow([^WGET$])
+m4trace:configure.ac:155: -1- m4_pattern_allow([^FETCH$])
+m4trace:configure.ac:158: -1- m4_pattern_allow([^DOWNLOAD$])
+m4trace:configure.ac:160: -1- m4_pattern_allow([^SOXMIX$])
+m4trace:configure.ac:162: -1- m4_pattern_allow([^HAVE_SOXMIX$])
+m4trace:configure.ac:165: -1- ACX_PTHREAD
+m4trace:configure.ac:165: -1- _m4_warn([obsolete], [The macro `AC_LANG_SAVE' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/lang.m4:125: AC_LANG_SAVE is expanded from...
+acinclude.m4:842: ACX_PTHREAD is expanded from...
+configure.ac:165: the top level])
+m4trace:configure.ac:165: -1- _m4_warn([obsolete], [The macro `AC_LANG_C' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/c.m4:72: AC_LANG_C is expanded from...
+acinclude.m4:842: ACX_PTHREAD is expanded from...
+configure.ac:165: the top level])
+m4trace:configure.ac:165: -1- m4_pattern_allow([^acx_pthread_config$])
+m4trace:configure.ac:165: -1- _m4_warn([obsolete], [The macro `AC_TRY_LINK' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:2687: AC_TRY_LINK is expanded from...
+acinclude.m4:842: ACX_PTHREAD is expanded from...
+configure.ac:165: the top level])
+m4trace:configure.ac:165: -1- _m4_warn([obsolete], [The macro `AC_TRY_LINK' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:2687: AC_TRY_LINK is expanded from...
+acinclude.m4:842: ACX_PTHREAD is expanded from...
+configure.ac:165: the top level])
+m4trace:configure.ac:165: -1- m4_pattern_allow([^PTHREAD_CREATE_JOINABLE$])
+m4trace:configure.ac:165: -1- m4_pattern_allow([^PTHREAD_CC$])
+m4trace:configure.ac:165: -1- m4_pattern_allow([^PTHREAD_LIBS$])
+m4trace:configure.ac:165: -1- m4_pattern_allow([^PTHREAD_CFLAGS$])
+m4trace:configure.ac:165: -1- m4_pattern_allow([^PTHREAD_CC$])
+m4trace:configure.ac:165: -2- m4_pattern_allow([^HAVE_PTHREAD$])
+m4trace:configure.ac:165: -1- _m4_warn([obsolete], [The macro `AC_LANG_RESTORE' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/lang.m4:134: AC_LANG_RESTORE is expanded from...
+acinclude.m4:842: ACX_PTHREAD is expanded from...
+configure.ac:165: the top level])
+m4trace:configure.ac:176: -1- m4_pattern_allow([^AST_DEVMODE$])
+m4trace:configure.ac:181: -1- AST_EXT_LIB_SETUP([ALSA], [Advanced Linux Sound Architecture], [asound])
+m4trace:configure.ac:181: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:181: the top level])
+m4trace:configure.ac:181: -1- m4_pattern_allow([^ALSA_LIB$])
+m4trace:configure.ac:181: -1- m4_pattern_allow([^ALSA_INCLUDE$])
+m4trace:configure.ac:181: -1- m4_pattern_allow([^ALSA_DIR$])
+m4trace:configure.ac:181: -1- m4_pattern_allow([^PBX_ALSA$])
+m4trace:configure.ac:182: -1- AST_EXT_LIB_SETUP([CURL], [cURL], [curl])
+m4trace:configure.ac:182: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:182: the top level])
+m4trace:configure.ac:182: -1- m4_pattern_allow([^CURL_LIB$])
+m4trace:configure.ac:182: -1- m4_pattern_allow([^CURL_INCLUDE$])
+m4trace:configure.ac:182: -1- m4_pattern_allow([^CURL_DIR$])
+m4trace:configure.ac:182: -1- m4_pattern_allow([^PBX_CURL$])
+m4trace:configure.ac:183: -1- AST_EXT_LIB_SETUP([CAP], [POSIX 1.e capabilities], [cap])
+m4trace:configure.ac:183: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:183: the top level])
+m4trace:configure.ac:183: -1- m4_pattern_allow([^CAP_LIB$])
+m4trace:configure.ac:183: -1- m4_pattern_allow([^CAP_INCLUDE$])
+m4trace:configure.ac:183: -1- m4_pattern_allow([^CAP_DIR$])
+m4trace:configure.ac:183: -1- m4_pattern_allow([^PBX_CAP$])
+m4trace:configure.ac:184: -1- AST_EXT_LIB_SETUP([CURSES], [curses], [curses])
+m4trace:configure.ac:184: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:184: the top level])
+m4trace:configure.ac:184: -1- m4_pattern_allow([^CURSES_LIB$])
+m4trace:configure.ac:184: -1- m4_pattern_allow([^CURSES_INCLUDE$])
+m4trace:configure.ac:184: -1- m4_pattern_allow([^CURSES_DIR$])
+m4trace:configure.ac:184: -1- m4_pattern_allow([^PBX_CURSES$])
+m4trace:configure.ac:185: -1- AST_EXT_LIB_SETUP([CRYPTO], [OpenSSL Cryptography], [crypto])
+m4trace:configure.ac:185: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:185: the top level])
+m4trace:configure.ac:185: -1- m4_pattern_allow([^CRYPTO_LIB$])
+m4trace:configure.ac:185: -1- m4_pattern_allow([^CRYPTO_INCLUDE$])
+m4trace:configure.ac:185: -1- m4_pattern_allow([^CRYPTO_DIR$])
+m4trace:configure.ac:185: -1- m4_pattern_allow([^PBX_CRYPTO$])
+m4trace:configure.ac:186: -1- AST_EXT_LIB_SETUP([DAHDI], [DAHDI], [dahdi])
+m4trace:configure.ac:186: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:186: the top level])
+m4trace:configure.ac:186: -1- m4_pattern_allow([^DAHDI_LIB$])
+m4trace:configure.ac:186: -1- m4_pattern_allow([^DAHDI_INCLUDE$])
+m4trace:configure.ac:186: -1- m4_pattern_allow([^DAHDI_DIR$])
+m4trace:configure.ac:186: -1- m4_pattern_allow([^PBX_DAHDI$])
+m4trace:configure.ac:187: -1- AST_EXT_LIB_SETUP([GNUTLS], [GNU TLS support (used for iksemel only)], [gnutls])
+m4trace:configure.ac:187: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:187: the top level])
+m4trace:configure.ac:187: -1- m4_pattern_allow([^GNUTLS_LIB$])
+m4trace:configure.ac:187: -1- m4_pattern_allow([^GNUTLS_INCLUDE$])
+m4trace:configure.ac:187: -1- m4_pattern_allow([^GNUTLS_DIR$])
+m4trace:configure.ac:187: -1- m4_pattern_allow([^PBX_GNUTLS$])
+m4trace:configure.ac:188: -1- AST_EXT_LIB_SETUP([GSM], [GSM], [gsm], [, or 'internal'])
+m4trace:configure.ac:188: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:188: the top level])
+m4trace:configure.ac:188: -1- m4_pattern_allow([^GSM_LIB$])
+m4trace:configure.ac:188: -1- m4_pattern_allow([^GSM_INCLUDE$])
+m4trace:configure.ac:188: -1- m4_pattern_allow([^GSM_DIR$])
+m4trace:configure.ac:188: -1- m4_pattern_allow([^PBX_GSM$])
+m4trace:configure.ac:189: -1- AST_EXT_LIB_SETUP([IKSEMEL], [Iksemel Jabber Library], [iksemel])
+m4trace:configure.ac:189: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:189: the top level])
+m4trace:configure.ac:189: -1- m4_pattern_allow([^IKSEMEL_LIB$])
+m4trace:configure.ac:189: -1- m4_pattern_allow([^IKSEMEL_INCLUDE$])
+m4trace:configure.ac:189: -1- m4_pattern_allow([^IKSEMEL_DIR$])
+m4trace:configure.ac:189: -1- m4_pattern_allow([^PBX_IKSEMEL$])
+m4trace:configure.ac:190: -1- AST_EXT_LIB_SETUP([IMAP_TK], [UW IMAP Toolkit], [imap])
+m4trace:configure.ac:190: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:190: the top level])
+m4trace:configure.ac:190: -1- m4_pattern_allow([^IMAP_TK_LIB$])
+m4trace:configure.ac:190: -1- m4_pattern_allow([^IMAP_TK_INCLUDE$])
+m4trace:configure.ac:190: -1- m4_pattern_allow([^IMAP_TK_DIR$])
+m4trace:configure.ac:190: -1- m4_pattern_allow([^PBX_IMAP_TK$])
+m4trace:configure.ac:191: -1- AST_EXT_LIB_SETUP([ISDNNET], [ISDN4Linux Library], [isdnnet])
+m4trace:configure.ac:191: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:191: the top level])
+m4trace:configure.ac:191: -1- m4_pattern_allow([^ISDNNET_LIB$])
+m4trace:configure.ac:191: -1- m4_pattern_allow([^ISDNNET_INCLUDE$])
+m4trace:configure.ac:191: -1- m4_pattern_allow([^ISDNNET_DIR$])
+m4trace:configure.ac:191: -1- m4_pattern_allow([^PBX_ISDNNET$])
+m4trace:configure.ac:192: -1- AST_EXT_LIB_SETUP([KDE], [KDE], [kde])
+m4trace:configure.ac:192: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:192: the top level])
+m4trace:configure.ac:192: -1- m4_pattern_allow([^KDE_LIB$])
+m4trace:configure.ac:192: -1- m4_pattern_allow([^KDE_INCLUDE$])
+m4trace:configure.ac:192: -1- m4_pattern_allow([^KDE_DIR$])
+m4trace:configure.ac:192: -1- m4_pattern_allow([^PBX_KDE$])
+m4trace:configure.ac:193: -1- AST_EXT_LIB_SETUP([LTDL], [libtool], [ltdl])
+m4trace:configure.ac:193: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:193: the top level])
+m4trace:configure.ac:193: -1- m4_pattern_allow([^LTDL_LIB$])
+m4trace:configure.ac:193: -1- m4_pattern_allow([^LTDL_INCLUDE$])
+m4trace:configure.ac:193: -1- m4_pattern_allow([^LTDL_DIR$])
+m4trace:configure.ac:193: -1- m4_pattern_allow([^PBX_LTDL$])
+m4trace:configure.ac:194: -1- AST_EXT_LIB_SETUP([MISDN], [mISDN User Library], [misdn])
+m4trace:configure.ac:194: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:194: the top level])
+m4trace:configure.ac:194: -1- m4_pattern_allow([^MISDN_LIB$])
+m4trace:configure.ac:194: -1- m4_pattern_allow([^MISDN_INCLUDE$])
+m4trace:configure.ac:194: -1- m4_pattern_allow([^MISDN_DIR$])
+m4trace:configure.ac:194: -1- m4_pattern_allow([^PBX_MISDN$])
+m4trace:configure.ac:195: -1- AST_EXT_LIB_SETUP([NBS], [Network Broadcast Sound], [nbs])
+m4trace:configure.ac:195: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:195: the top level])
+m4trace:configure.ac:195: -1- m4_pattern_allow([^NBS_LIB$])
+m4trace:configure.ac:195: -1- m4_pattern_allow([^NBS_INCLUDE$])
+m4trace:configure.ac:195: -1- m4_pattern_allow([^NBS_DIR$])
+m4trace:configure.ac:195: -1- m4_pattern_allow([^PBX_NBS$])
+m4trace:configure.ac:196: -1- AST_EXT_LIB_SETUP([NCURSES], [ncurses], [ncurses])
+m4trace:configure.ac:196: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:196: the top level])
+m4trace:configure.ac:196: -1- m4_pattern_allow([^NCURSES_LIB$])
+m4trace:configure.ac:196: -1- m4_pattern_allow([^NCURSES_INCLUDE$])
+m4trace:configure.ac:196: -1- m4_pattern_allow([^NCURSES_DIR$])
+m4trace:configure.ac:196: -1- m4_pattern_allow([^PBX_NCURSES$])
+m4trace:configure.ac:197: -1- AST_EXT_LIB_SETUP([NETSNMP], [Net-SNMP], [netsnmp])
+m4trace:configure.ac:197: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:197: the top level])
+m4trace:configure.ac:197: -1- m4_pattern_allow([^NETSNMP_LIB$])
+m4trace:configure.ac:197: -1- m4_pattern_allow([^NETSNMP_INCLUDE$])
+m4trace:configure.ac:197: -1- m4_pattern_allow([^NETSNMP_DIR$])
+m4trace:configure.ac:197: -1- m4_pattern_allow([^PBX_NETSNMP$])
+m4trace:configure.ac:198: -1- AST_EXT_LIB_SETUP([NEWT], [newt], [newt])
+m4trace:configure.ac:198: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:198: the top level])
+m4trace:configure.ac:198: -1- m4_pattern_allow([^NEWT_LIB$])
+m4trace:configure.ac:198: -1- m4_pattern_allow([^NEWT_INCLUDE$])
+m4trace:configure.ac:198: -1- m4_pattern_allow([^NEWT_DIR$])
+m4trace:configure.ac:198: -1- m4_pattern_allow([^PBX_NEWT$])
+m4trace:configure.ac:199: -1- AST_EXT_LIB_SETUP([UNIXODBC], [unixODBC], [odbc])
+m4trace:configure.ac:199: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:199: the top level])
+m4trace:configure.ac:199: -1- m4_pattern_allow([^UNIXODBC_LIB$])
+m4trace:configure.ac:199: -1- m4_pattern_allow([^UNIXODBC_INCLUDE$])
+m4trace:configure.ac:199: -1- m4_pattern_allow([^UNIXODBC_DIR$])
+m4trace:configure.ac:199: -1- m4_pattern_allow([^PBX_UNIXODBC$])
+m4trace:configure.ac:200: -1- AST_EXT_LIB_SETUP([OGG], [OGG], [ogg])
+m4trace:configure.ac:200: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:200: the top level])
+m4trace:configure.ac:200: -1- m4_pattern_allow([^OGG_LIB$])
+m4trace:configure.ac:200: -1- m4_pattern_allow([^OGG_INCLUDE$])
+m4trace:configure.ac:200: -1- m4_pattern_allow([^OGG_DIR$])
+m4trace:configure.ac:200: -1- m4_pattern_allow([^PBX_OGG$])
+m4trace:configure.ac:201: -1- AST_EXT_LIB_SETUP([OSPTK], [OSP Toolkit], [osptk])
+m4trace:configure.ac:201: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:201: the top level])
+m4trace:configure.ac:201: -1- m4_pattern_allow([^OSPTK_LIB$])
+m4trace:configure.ac:201: -1- m4_pattern_allow([^OSPTK_INCLUDE$])
+m4trace:configure.ac:201: -1- m4_pattern_allow([^OSPTK_DIR$])
+m4trace:configure.ac:201: -1- m4_pattern_allow([^PBX_OSPTK$])
+m4trace:configure.ac:202: -1- AST_EXT_LIB_SETUP([OSS], [Open Sound System], [oss])
+m4trace:configure.ac:202: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:202: the top level])
+m4trace:configure.ac:202: -1- m4_pattern_allow([^OSS_LIB$])
+m4trace:configure.ac:202: -1- m4_pattern_allow([^OSS_INCLUDE$])
+m4trace:configure.ac:202: -1- m4_pattern_allow([^OSS_DIR$])
+m4trace:configure.ac:202: -1- m4_pattern_allow([^PBX_OSS$])
+m4trace:configure.ac:203: -1- AST_EXT_LIB_SETUP([POPT], [popt], [popt])
+m4trace:configure.ac:203: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:203: the top level])
+m4trace:configure.ac:203: -1- m4_pattern_allow([^POPT_LIB$])
+m4trace:configure.ac:203: -1- m4_pattern_allow([^POPT_INCLUDE$])
+m4trace:configure.ac:203: -1- m4_pattern_allow([^POPT_DIR$])
+m4trace:configure.ac:203: -1- m4_pattern_allow([^PBX_POPT$])
+m4trace:configure.ac:204: -1- AST_EXT_LIB_SETUP([PGSQL], [PostgreSQL], [postgres])
+m4trace:configure.ac:204: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:204: the top level])
+m4trace:configure.ac:204: -1- m4_pattern_allow([^PGSQL_LIB$])
+m4trace:configure.ac:204: -1- m4_pattern_allow([^PGSQL_INCLUDE$])
+m4trace:configure.ac:204: -1- m4_pattern_allow([^PGSQL_DIR$])
+m4trace:configure.ac:204: -1- m4_pattern_allow([^PBX_PGSQL$])
+m4trace:configure.ac:205: -1- AST_EXT_LIB_SETUP([PRI], [ISDN PRI], [pri])
+m4trace:configure.ac:205: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:205: the top level])
+m4trace:configure.ac:205: -1- m4_pattern_allow([^PRI_LIB$])
+m4trace:configure.ac:205: -1- m4_pattern_allow([^PRI_INCLUDE$])
+m4trace:configure.ac:205: -1- m4_pattern_allow([^PRI_DIR$])
+m4trace:configure.ac:205: -1- m4_pattern_allow([^PBX_PRI$])
+m4trace:configure.ac:206: -1- AST_EXT_LIB_SETUP([PWLIB], [PWlib], [pwlib])
+m4trace:configure.ac:206: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:206: the top level])
+m4trace:configure.ac:206: -1- m4_pattern_allow([^PWLIB_LIB$])
+m4trace:configure.ac:206: -1- m4_pattern_allow([^PWLIB_INCLUDE$])
+m4trace:configure.ac:206: -1- m4_pattern_allow([^PWLIB_DIR$])
+m4trace:configure.ac:206: -1- m4_pattern_allow([^PBX_PWLIB$])
+m4trace:configure.ac:207: -1- AST_EXT_LIB_SETUP([OPENH323], [OpenH323], [h323])
+m4trace:configure.ac:207: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:207: the top level])
+m4trace:configure.ac:207: -1- m4_pattern_allow([^OPENH323_LIB$])
+m4trace:configure.ac:207: -1- m4_pattern_allow([^OPENH323_INCLUDE$])
+m4trace:configure.ac:207: -1- m4_pattern_allow([^OPENH323_DIR$])
+m4trace:configure.ac:207: -1- m4_pattern_allow([^PBX_OPENH323$])
+m4trace:configure.ac:208: -1- AST_EXT_LIB_SETUP([RADIUS], [Radius Client], [radius])
+m4trace:configure.ac:208: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:208: the top level])
+m4trace:configure.ac:208: -1- m4_pattern_allow([^RADIUS_LIB$])
+m4trace:configure.ac:208: -1- m4_pattern_allow([^RADIUS_INCLUDE$])
+m4trace:configure.ac:208: -1- m4_pattern_allow([^RADIUS_DIR$])
+m4trace:configure.ac:208: -1- m4_pattern_allow([^PBX_RADIUS$])
+m4trace:configure.ac:209: -1- AST_EXT_LIB_SETUP([SPEEX], [Speex], [speex])
+m4trace:configure.ac:209: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:209: the top level])
+m4trace:configure.ac:209: -1- m4_pattern_allow([^SPEEX_LIB$])
+m4trace:configure.ac:209: -1- m4_pattern_allow([^SPEEX_INCLUDE$])
+m4trace:configure.ac:209: -1- m4_pattern_allow([^SPEEX_DIR$])
+m4trace:configure.ac:209: -1- m4_pattern_allow([^PBX_SPEEX$])
+m4trace:configure.ac:210: -1- AST_EXT_LIB_SETUP([SPEEXDSP], [Speexdsp], [speexdsp])
+m4trace:configure.ac:210: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:210: the top level])
+m4trace:configure.ac:210: -1- m4_pattern_allow([^SPEEXDSP_LIB$])
+m4trace:configure.ac:210: -1- m4_pattern_allow([^SPEEXDSP_INCLUDE$])
+m4trace:configure.ac:210: -1- m4_pattern_allow([^SPEEXDSP_DIR$])
+m4trace:configure.ac:210: -1- m4_pattern_allow([^PBX_SPEEXDSP$])
+m4trace:configure.ac:211: -1- AST_EXT_LIB_SETUP([SQLITE], [SQLite], [sqlite])
+m4trace:configure.ac:211: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:211: the top level])
+m4trace:configure.ac:211: -1- m4_pattern_allow([^SQLITE_LIB$])
+m4trace:configure.ac:211: -1- m4_pattern_allow([^SQLITE_INCLUDE$])
+m4trace:configure.ac:211: -1- m4_pattern_allow([^SQLITE_DIR$])
+m4trace:configure.ac:211: -1- m4_pattern_allow([^PBX_SQLITE$])
+m4trace:configure.ac:212: -1- AST_EXT_LIB_SETUP([SUPPSERV], [mISDN Supplemental Services], [suppserv])
+m4trace:configure.ac:212: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:212: the top level])
+m4trace:configure.ac:212: -1- m4_pattern_allow([^SUPPSERV_LIB$])
+m4trace:configure.ac:212: -1- m4_pattern_allow([^SUPPSERV_INCLUDE$])
+m4trace:configure.ac:212: -1- m4_pattern_allow([^SUPPSERV_DIR$])
+m4trace:configure.ac:212: -1- m4_pattern_allow([^PBX_SUPPSERV$])
+m4trace:configure.ac:213: -1- AST_EXT_LIB_SETUP([OPENSSL], [OpenSSL Secure Sockets Layer], [ssl])
+m4trace:configure.ac:213: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:213: the top level])
+m4trace:configure.ac:213: -1- m4_pattern_allow([^OPENSSL_LIB$])
+m4trace:configure.ac:213: -1- m4_pattern_allow([^OPENSSL_INCLUDE$])
+m4trace:configure.ac:213: -1- m4_pattern_allow([^OPENSSL_DIR$])
+m4trace:configure.ac:213: -1- m4_pattern_allow([^PBX_OPENSSL$])
+m4trace:configure.ac:214: -1- AST_EXT_LIB_SETUP([FREETDS], [FreeTDS], [tds])
+m4trace:configure.ac:214: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:214: the top level])
+m4trace:configure.ac:214: -1- m4_pattern_allow([^FREETDS_LIB$])
+m4trace:configure.ac:214: -1- m4_pattern_allow([^FREETDS_INCLUDE$])
+m4trace:configure.ac:214: -1- m4_pattern_allow([^FREETDS_DIR$])
+m4trace:configure.ac:214: -1- m4_pattern_allow([^PBX_FREETDS$])
+m4trace:configure.ac:215: -1- AST_EXT_LIB_SETUP([TERMCAP], [Termcap], [termcap])
+m4trace:configure.ac:215: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:215: the top level])
+m4trace:configure.ac:215: -1- m4_pattern_allow([^TERMCAP_LIB$])
+m4trace:configure.ac:215: -1- m4_pattern_allow([^TERMCAP_INCLUDE$])
+m4trace:configure.ac:215: -1- m4_pattern_allow([^TERMCAP_DIR$])
+m4trace:configure.ac:215: -1- m4_pattern_allow([^PBX_TERMCAP$])
+m4trace:configure.ac:216: -1- AST_EXT_LIB_SETUP([TINFO], [Term Info], [tinfo])
+m4trace:configure.ac:216: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:216: the top level])
+m4trace:configure.ac:216: -1- m4_pattern_allow([^TINFO_LIB$])
+m4trace:configure.ac:216: -1- m4_pattern_allow([^TINFO_INCLUDE$])
+m4trace:configure.ac:216: -1- m4_pattern_allow([^TINFO_DIR$])
+m4trace:configure.ac:216: -1- m4_pattern_allow([^PBX_TINFO$])
+m4trace:configure.ac:217: -1- AST_EXT_LIB_SETUP([TONEZONE], [tonezone], [tonezone])
+m4trace:configure.ac:217: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:217: the top level])
+m4trace:configure.ac:217: -1- m4_pattern_allow([^TONEZONE_LIB$])
+m4trace:configure.ac:217: -1- m4_pattern_allow([^TONEZONE_INCLUDE$])
+m4trace:configure.ac:217: -1- m4_pattern_allow([^TONEZONE_DIR$])
+m4trace:configure.ac:217: -1- m4_pattern_allow([^PBX_TONEZONE$])
+m4trace:configure.ac:218: -1- AST_EXT_LIB_SETUP([USB], [usb], [usb])
+m4trace:configure.ac:218: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:218: the top level])
+m4trace:configure.ac:218: -1- m4_pattern_allow([^USB_LIB$])
+m4trace:configure.ac:218: -1- m4_pattern_allow([^USB_INCLUDE$])
+m4trace:configure.ac:218: -1- m4_pattern_allow([^USB_DIR$])
+m4trace:configure.ac:218: -1- m4_pattern_allow([^PBX_USB$])
+m4trace:configure.ac:219: -1- AST_EXT_LIB_SETUP([VORBIS], [Vorbis], [vorbis])
+m4trace:configure.ac:219: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:219: the top level])
+m4trace:configure.ac:219: -1- m4_pattern_allow([^VORBIS_LIB$])
+m4trace:configure.ac:219: -1- m4_pattern_allow([^VORBIS_INCLUDE$])
+m4trace:configure.ac:219: -1- m4_pattern_allow([^VORBIS_DIR$])
+m4trace:configure.ac:219: -1- m4_pattern_allow([^PBX_VORBIS$])
+m4trace:configure.ac:220: -1- AST_EXT_LIB_SETUP([VPB], [Voicetronix API], [vpb])
+m4trace:configure.ac:220: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:220: the top level])
+m4trace:configure.ac:220: -1- m4_pattern_allow([^VPB_LIB$])
+m4trace:configure.ac:220: -1- m4_pattern_allow([^VPB_INCLUDE$])
+m4trace:configure.ac:220: -1- m4_pattern_allow([^VPB_DIR$])
+m4trace:configure.ac:220: -1- m4_pattern_allow([^PBX_VPB$])
+m4trace:configure.ac:221: -1- AST_EXT_LIB_SETUP([ZLIB], [zlib], [z])
+m4trace:configure.ac:221: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:221: the top level])
+m4trace:configure.ac:221: -1- m4_pattern_allow([^ZLIB_LIB$])
+m4trace:configure.ac:221: -1- m4_pattern_allow([^ZLIB_INCLUDE$])
+m4trace:configure.ac:221: -1- m4_pattern_allow([^ZLIB_DIR$])
+m4trace:configure.ac:221: -1- m4_pattern_allow([^PBX_ZLIB$])
+m4trace:configure.ac:222: -1- AST_EXT_LIB_SETUP([ZAPTEL], [Zaptel], [zaptel])
+m4trace:configure.ac:222: -2- _m4_warn([obsolete], [The macro `AC_HELP_STRING' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/general.m4:207: AC_HELP_STRING is expanded from...
+acinclude.m4:20: AST_EXT_LIB_SETUP is expanded from...
+configure.ac:222: the top level])
+m4trace:configure.ac:222: -1- m4_pattern_allow([^ZAPTEL_LIB$])
+m4trace:configure.ac:222: -1- m4_pattern_allow([^ZAPTEL_INCLUDE$])
+m4trace:configure.ac:222: -1- m4_pattern_allow([^ZAPTEL_DIR$])
+m4trace:configure.ac:222: -1- m4_pattern_allow([^PBX_ZAPTEL$])
+m4trace:configure.ac:227: -1- m4_pattern_allow([^size_t$])
+m4trace:configure.ac:227: -1- m4_pattern_allow([^HAVE_ALLOCA_H$])
+m4trace:configure.ac:227: -1- m4_pattern_allow([^HAVE_ALLOCA$])
+m4trace:configure.ac:227: -1- m4_pattern_allow([^ALLOCA$])
+m4trace:configure.ac:227: -1- m4_pattern_allow([^C_ALLOCA$])
+m4trace:configure.ac:227: -1- m4_pattern_allow([^CRAY_STACKSEG_END$])
+m4trace:configure.ac:227: -1- m4_pattern_allow([^STACK_DIRECTION$])
+m4trace:configure.ac:229: -1- m4_pattern_allow([^STDC_HEADERS$])
+m4trace:configure.ac:230: -1- m4_pattern_allow([^HAVE_SYS_WAIT_H$])
+m4trace:configure.ac:233: -1- m4_pattern_allow([^_FILE_OFFSET_BITS$])
+m4trace:configure.ac:233: -1- m4_pattern_allow([^_LARGE_FILES$])
+m4trace:configure.ac:236: -1- m4_pattern_allow([^HAVE__BOOL$])
+m4trace:configure.ac:236: -1- m4_pattern_allow([^HAVE_STDBOOL_H$])
+m4trace:configure.ac:237: -1- m4_pattern_allow([^const$])
+m4trace:configure.ac:238: -1- m4_pattern_allow([^uid_t$])
+m4trace:configure.ac:238: -1- m4_pattern_allow([^gid_t$])
+m4trace:configure.ac:240: -1- m4_pattern_allow([^mode_t$])
+m4trace:configure.ac:241: -1- m4_pattern_allow([^off_t$])
+m4trace:configure.ac:242: -1- m4_pattern_allow([^pid_t$])
+m4trace:configure.ac:243: -1- m4_pattern_allow([^size_t$])
+m4trace:configure.ac:244: -1- m4_pattern_allow([^HAVE_STRUCT_STAT_ST_BLKSIZE$])
+m4trace:configure.ac:245: -1- m4_pattern_allow([^TIME_WITH_SYS_TIME$])
+m4trace:configure.ac:246: -1- m4_pattern_allow([^TM_IN_SYS_TIME$])
+m4trace:configure.ac:247: -1- m4_pattern_allow([^volatile$])
+m4trace:configure.ac:248: -1- m4_pattern_allow([^HAVE_PTRDIFF_T$])
+m4trace:configure.ac:251: -1- m4_pattern_allow([^HAVE_UNISTD_H$])
+m4trace:configure.ac:251: -1- m4_pattern_allow([^HAVE_CHOWN$])
+m4trace:configure.ac:252: -1- m4_pattern_allow([^CLOSEDIR_VOID$])
+m4trace:configure.ac:253: -1- m4_pattern_allow([^LIB@&t@OBJS$])
+m4trace:configure.ac:254: -1- AST_FUNC_FORK
+m4trace:configure.ac:254: -1- m4_pattern_allow([^HAVE_VFORK_H$])
+m4trace:configure.ac:254: -1- _AST_FUNC_FORK
+m4trace:configure.ac:254: -1- m4_pattern_allow([^HAVE_WORKING_VFORK$])
+m4trace:configure.ac:254: -1- m4_pattern_allow([^vfork$])
+m4trace:configure.ac:254: -1- m4_pattern_allow([^HAVE_WORKING_FORK$])
+m4trace:configure.ac:255: -1- m4_pattern_allow([^_LARGEFILE_SOURCE$])
+m4trace:configure.ac:255: -1- m4_pattern_allow([^HAVE_FSEEKO$])
+m4trace:configure.ac:261: -1- m4_pattern_allow([^LIB@&t@OBJS$])
+m4trace:configure.ac:262: -1- AC_DEFUN([_AC_Header_stdlib_h], [m4_divert_text([INIT_PREPARE], [AS_VAR_APPEND([ac_header_list], [" stdlib.h"])])
+_AC_HEADERS_EXPANSION])
+m4trace:configure.ac:262: -1- AC_DEFUN([_AC_Header_unistd_h], [m4_divert_text([INIT_PREPARE], [AS_VAR_APPEND([ac_header_list], [" unistd.h"])])
+_AC_HEADERS_EXPANSION])
+m4trace:configure.ac:262: -1- AC_DEFUN([_AC_Header_sys_param_h], [m4_divert_text([INIT_PREPARE], [AS_VAR_APPEND([ac_header_list], [" sys/param.h"])])
+_AC_HEADERS_EXPANSION])
+m4trace:configure.ac:262: -1- m4_pattern_allow([^HAVE_GETPAGESIZE$])
+m4trace:configure.ac:262: -1- m4_pattern_allow([^HAVE_MMAP$])
+m4trace:configure.ac:263: -1- m4_pattern_allow([^SELECT_TYPE_ARG1$])
+m4trace:configure.ac:263: -1- m4_pattern_allow([^SELECT_TYPE_ARG234$])
+m4trace:configure.ac:263: -1- m4_pattern_allow([^SELECT_TYPE_ARG5$])
+m4trace:configure.ac:264: -1- _m4_warn([obsolete], [The macro `AC_FUNC_SETVBUF_REVERSED' is obsolete.  Remove it and all references to SETVBUF_REVERSED.], [../../lib/autoconf/functions.m4:1710: AC_FUNC_SETVBUF_REVERSED is expanded from...
+configure.ac:264: the top level])
+m4trace:configure.ac:265: -1- _m4_warn([obsolete], [The macro `AC_TYPE_SIGNAL' is obsolete.
+You should run autoupdate.], [../../lib/autoconf/types.m4:746: AC_TYPE_SIGNAL is expanded from...
+configure.ac:265: the top level])
+m4trace:configure.ac:265: -1- m4_pattern_allow([^RETSIGTYPE$])
+m4trace:configure.ac:266: -1- m4_pattern_allow([^LSTAT_FOLLOWS_SLASHED_SYMLINK$])
+m4trace:configure.ac:266: -1- m4_pattern_allow([^LIB@&t@OBJS$])
+m4trace:configure.ac:266: -1- m4_pattern_allow([^LIB@&t@OBJS$])
+m4trace:configure.ac:266: -1- m4_pattern_allow([^HAVE_STAT_EMPTY_STRING_BUG$])
+m4trace:configure.ac:267: -1- m4_pattern_allow([^HAVE_STRCOLL$])
+m4trace:configure.ac:268: -1- m4_pattern_allow([^HAVE_STRFTIME$])
+m4trace:configure.ac:268: -1- m4_pattern_allow([^HAVE_STRFTIME$])
+m4trace:configure.ac:269: -1- m4_pattern_allow([^LIB@&t@OBJS$])
+m4trace:configure.ac:270: -1- m4_pattern_allow([^POW_LIB$])
+m4trace:configure.ac:270: -1- m4_pattern_allow([^LIB@&t@OBJS$])
+m4trace:configure.ac:271: -1- AC_DEFUN([_AC_Header_utime_h], [m4_divert_text([INIT_PREPARE], [AS_VAR_APPEND([ac_header_list], [" utime.h"])])
+_AC_HEADERS_EXPANSION])
+m4trace:configure.ac:271: -1- m4_pattern_allow([^HAVE_UTIME_NULL$])
+m4trace:configure.ac:272: -1- m4_pattern_allow([^HAVE_VPRINTF$])
+m4trace:configure.ac:272: -1- m4_pattern_allow([^HAVE_DOPRNT$])
+m4trace:configure.ac:284: -2- m4_pattern_allow([^HAVE_GETHOSTBYNAME_R_6$])
+m4trace:configure.ac:279: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:279: the top level])
+m4trace:configure.ac:294: -2- m4_pattern_allow([^HAVE_GETHOSTBYNAME_R_5$])
+m4trace:configure.ac:289: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:289: the top level])
+m4trace:configure.ac:303: -2- m4_pattern_allow([^HAVE_PTHREAD_RWLOCK_INITIALIZER$])
+m4trace:configure.ac:299: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:299: the top level])
+m4trace:configure.ac:312: -2- m4_pattern_allow([^HAVE_PTHREAD_RWLOCK_PREFER_WRITER_NP$])
+m4trace:configure.ac:308: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:308: the top level])
+m4trace:configure.ac:320: -2- m4_pattern_allow([^HAVE_GCC_ATOMICS$])
+m4trace:configure.ac:317: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:317: the top level])
+m4trace:configure.ac:324: -1- AST_GCC_ATTRIBUTE([pure])
+m4trace:configure.ac:324: -2- m4_pattern_allow([^HAVE_ATTRIBUTE_pure$])
+m4trace:configure.ac:324: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2590: _AC_COMPILE_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2606: AC_COMPILE_IFELSE is expanded from...
+acinclude.m4:3: AST_GCC_ATTRIBUTE is expanded from...
+configure.ac:324: the top level])
+m4trace:configure.ac:325: -1- AST_GCC_ATTRIBUTE([malloc])
+m4trace:configure.ac:325: -2- m4_pattern_allow([^HAVE_ATTRIBUTE_malloc$])
+m4trace:configure.ac:325: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2590: _AC_COMPILE_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2606: AC_COMPILE_IFELSE is expanded from...
+acinclude.m4:3: AST_GCC_ATTRIBUTE is expanded from...
+configure.ac:325: the top level])
+m4trace:configure.ac:326: -1- AST_GCC_ATTRIBUTE([const])
+m4trace:configure.ac:326: -2- m4_pattern_allow([^HAVE_ATTRIBUTE_const$])
+m4trace:configure.ac:326: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2590: _AC_COMPILE_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2606: AC_COMPILE_IFELSE is expanded from...
+acinclude.m4:3: AST_GCC_ATTRIBUTE is expanded from...
+configure.ac:326: the top level])
+m4trace:configure.ac:327: -1- AST_GCC_ATTRIBUTE([unused])
+m4trace:configure.ac:327: -2- m4_pattern_allow([^HAVE_ATTRIBUTE_unused$])
+m4trace:configure.ac:327: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2590: _AC_COMPILE_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2606: AC_COMPILE_IFELSE is expanded from...
+acinclude.m4:3: AST_GCC_ATTRIBUTE is expanded from...
+configure.ac:327: the top level])
+m4trace:configure.ac:328: -1- AST_GCC_ATTRIBUTE([always_inline])
+m4trace:configure.ac:328: -2- m4_pattern_allow([^HAVE_ATTRIBUTE_always_inline$])
+m4trace:configure.ac:328: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2590: _AC_COMPILE_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2606: AC_COMPILE_IFELSE is expanded from...
+acinclude.m4:3: AST_GCC_ATTRIBUTE is expanded from...
+configure.ac:328: the top level])
+m4trace:configure.ac:329: -1- AST_GCC_ATTRIBUTE([deprecated])
+m4trace:configure.ac:329: -2- m4_pattern_allow([^HAVE_ATTRIBUTE_deprecated$])
+m4trace:configure.ac:329: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2590: _AC_COMPILE_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2606: AC_COMPILE_IFELSE is expanded from...
+acinclude.m4:3: AST_GCC_ATTRIBUTE is expanded from...
+configure.ac:329: the top level])
+m4trace:configure.ac:340: -2- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:340: the top level])
+m4trace:configure.ac:334: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2590: _AC_COMPILE_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2606: AC_COMPILE_IFELSE is expanded from...
+configure.ac:334: the top level])
+m4trace:configure.ac:351: -1- m4_pattern_allow([^GC_CFLAGS$])
+m4trace:configure.ac:352: -1- m4_pattern_allow([^GC_LDFLAGS$])
+m4trace:configure.ac:362: -1- m4_pattern_allow([^AST_DECLARATION_AFTER_STATEMENT$])
+m4trace:configure.ac:372: -1- m4_pattern_allow([^AST_NO_STRICT_OVERFLOW$])
+m4trace:configure.ac:390: -2- m4_pattern_allow([^HAVE_RES_NINIT$])
+m4trace:configure.ac:407: -3- m4_pattern_allow([^HAVE_RES_NDESTROY$])
+m4trace:configure.ac:393: -2- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:393: the top level])
+m4trace:configure.ac:376: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:376: the top level])
+m4trace:configure.ac:418: -2- m4_pattern_allow([^HAVE_RTLD_NOLOAD$])
+m4trace:configure.ac:414: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:414: the top level])
+m4trace:configure.ac:427: -2- m4_pattern_allow([^HAVE_IP_MTU_DISCOVER$])
+m4trace:configure.ac:423: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:423: the top level])
+m4trace:configure.ac:431: -1- m4_pattern_allow([^HAVE_OSX_ATOMICS$])
+m4trace:configure.ac:434: -1- m4_pattern_allow([^SIZEOF_INT$])
+m4trace:configure.ac:438: -1- AST_EXT_LIB_CHECK([ALSA], [asound], [snd_spcm_init], [alsa/asoundlib.h], [-lm -ldl])
+m4trace:configure.ac:438: -1- m4_pattern_allow([^HAVE_ALSA$])
+m4trace:configure.ac:440: -1- AST_EXT_LIB_CHECK([CURSES], [curses], [initscr], [curses.h])
+m4trace:configure.ac:440: -1- m4_pattern_allow([^HAVE_CURSES$])
+m4trace:configure.ac:443: -1- AST_EXT_LIB_CHECK([CAP], [cap], [cap_from_text], [sys/capability.h])
+m4trace:configure.ac:443: -1- m4_pattern_allow([^HAVE_CAP$])
+m4trace:configure.ac:447: -1- AST_C_DEFINE_CHECK([DAHDI], [DAHDI_CODE], [dahdi/user.h])
+m4trace:configure.ac:447: -1- m4_pattern_allow([^HAVE_DAHDI$])
+m4trace:configure.ac:447: -1- m4_pattern_allow([^HAVE_DAHDI_VERSION$])
+m4trace:configure.ac:447: -1- m4_pattern_allow([^PBX_DAHDI$])
+m4trace:configure.ac:450: -1- m4_pattern_allow([^PBX_DAHDI_TRANSCODE$])
+m4trace:configure.ac:454: -1- AST_C_COMPILE_CHECK([GETIFADDRS], [struct ifaddrs *p; getifaddrs(&p)], [ifaddrs.h], [], [getifaddrs() support])
+m4trace:configure.ac:454: -1- m4_pattern_allow([^HAVE_GETIFADDRS$])
+m4trace:configure.ac:454: -1- m4_pattern_allow([^HAVE_GETIFADDRS_VERSION$])
+m4trace:configure.ac:457: -1- m4_pattern_allow([^GSM_INTERNAL$])
+m4trace:configure.ac:474: -2- m4_pattern_allow([^HAVE_GSM$])
+m4trace:configure.ac:497: -1- m4_pattern_allow([^HAVE_GSM_HEADER$])
+m4trace:configure.ac:501: -1- m4_pattern_allow([^HAVE_GSM_GSM_HEADER$])
+m4trace:configure.ac:518: -1- m4_pattern_allow([^HAVE_GSM_HEADER$])
+m4trace:configure.ac:522: -1- AST_EXT_LIB_CHECK([IKSEMEL], [iksemel], [iks_start_sasl], [iksemel.h])
+m4trace:configure.ac:522: -1- m4_pattern_allow([^HAVE_IKSEMEL$])
+m4trace:configure.ac:525: -1- AST_EXT_LIB_CHECK([GNUTLS], [gnutls], [gnutls_bye], [gnutls/gnutls.h], [-lz -lgcrypt -lgpg-error])
+m4trace:configure.ac:525: -1- m4_pattern_allow([^HAVE_GNUTLS$])
+m4trace:configure.ac:545: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:545: the top level])
+m4trace:configure.ac:601: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:601: the top level])
+m4trace:configure.ac:672: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:672: the top level])
+m4trace:configure.ac:728: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:728: the top level])
+m4trace:configure.ac:797: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:797: the top level])
+m4trace:configure.ac:854: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:854: the top level])
+m4trace:configure.ac:918: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:918: the top level])
+m4trace:configure.ac:975: -1- _m4_warn([syntax], [AC_LANG_CONFTEST: no AC_LANG_SOURCE call detected in body], [../../lib/autoconf/lang.m4:193: AC_LANG_CONFTEST is expanded from...
+../../lib/autoconf/general.m4:2661: _AC_LINK_IFELSE is expanded from...
+../../lib/autoconf/general.m4:2678: AC_LINK_IFELSE is expanded from...
+configure.ac:975: the top level])
+m4trace:configure.ac:1039: -1- m4_pattern_allow([^HAVE_IMAP_TK$])
+m4trace:configure.ac:1041: -1- m4_pattern_allow([^HAVE_IMAP_TK2006$])
+m4trace:configure.ac:1058: -1- AST_EXT_LIB_CHECK([LTDL], [ltdl], [lt_dlinit], [ltdl.h], [])
+m4trace:configure.ac:1058: -1- m4_pattern_allow([^HAVE_LTDL$])
+m4trace:configure.ac:1093: -1- m4_pattern_allow([^HAVE_LIBKDE$])
+m4trace:configure.ac:1106: -1- m4_pattern_allow([^KDEINIT$])
+m4trace:configure.ac:1111: -1- m4_pattern_allow([^KDEDIR$])
+m4trace:configure.ac:1116: -1- AST_EXT_LIB_CHECK([MISDN], [mISDN], [mISDN_open], [mISDNuser/mISDNlib.h])
+m4trace:configure.ac:1116: -1- m4_pattern_allow([^HAVE_MISDN$])
+m4trace:configure.ac:1119: -1- AST_EXT_LIB_CHECK([ISDNNET], [isdnnet], [init_manager], [mISDNuser/isdn_net.h], [-lmISDN -lpthread])
+m4trace:configure.ac:1119: -1- m4_pattern_allow([^HAVE_ISDNNET$])
+m4trace:configure.ac:1120: -1- AST_EXT_LIB_CHECK([SUPPSERV], [suppserv], [encodeFac], [mISDNuser/suppserv.h])
+m4trace:configure.ac:1120: -1- m4_pattern_allow([^HAVE_SUPPSERV$])
+m4trace:configure.ac:1121: -1- m4_pattern_allow([^MISDN_1_2$])
+m4trace:configure.ac:1124: -1- AST_EXT_LIB_CHECK([NBS], [nbs], [nbs_connect], [nbs.h])
+m4trace:configure.ac:1124: -1- m4_pattern_allow([^HAVE_NBS$])
+m4trace:configure.ac:1126: -1- AST_EXT_LIB_CHECK([NCURSES], [ncurses], [initscr], [curses.h])
+m4trace:configure.ac:1126: -1- m4_pattern_allow([^HAVE_NCURSES$])
+m4trace:configure.ac:1131: -1- m4_pattern_allow([^NETSNMP_CONFIG$])
+m4trace:configure.ac:1141: -1- m4_pattern_allow([^NETSNMP_CONFIG$])
+m4trace:configure.ac:1147: -2- m4_pattern_allow([^HAVE_NETSNMP$])
+m4trace:configure.ac:1170: -1- AST_EXT_LIB_CHECK([NEWT], [newt], [newtBell], [newt.h])
+m4trace:configure.ac:1170: -1- m4_pattern_allow([^HAVE_NEWT$])
+m4trace:configure.ac:1172: -1- AST_EXT_LIB_CHECK([UNIXODBC], [odbc], [SQLConnect], [sql.h], [])
+m4trace:configure.ac:1172: -1- m4_pattern_allow([^HAVE_UNIXODBC$])
+m4trace:configure.ac:1174: -1- AST_EXT_LIB_CHECK([OGG], [ogg], [ogg_sync_init], [])
+m4trace:configure.ac:1174: -1- m4_pattern_allow([^HAVE_OGG$])
+m4trace:configure.ac:1178: -1- m4_pattern_allow([^HAVE_OSS$])
+m4trace:configure.ac:1184: -1- m4_pattern_allow([^HAVE_OSS$])
+m4trace:configure.ac:1191: -1- AST_EXT_LIB_CHECK([OSS], [ossaudio], [oss_ioctl_mixer], [soundcard.h])
+m4trace:configure.ac:1191: -1- m4_pattern_allow([^HAVE_OSS$])
+m4trace:configure.ac:1198: -1- m4_pattern_allow([^PG_CONFIG$])
+m4trace:configure.ac:1208: -1- m4_pattern_allow([^PG_CONFIG$])
+m4trace:configure.ac:1224: -2- m4_pattern_allow([^HAVE_PGSQL$])
+m4trace:configure.ac:1249: -1- AST_EXT_LIB_CHECK([POPT], [popt], [poptStrerror], [popt.h])
+m4trace:configure.ac:1249: -1- m4_pattern_allow([^HAVE_POPT$])
+m4trace:configure.ac:1251: -1- AST_EXT_LIB_CHECK([PRI], [pri], [pri_keypad_facility], [libpri.h])
+m4trace:configure.ac:1251: -1- m4_pattern_allow([^HAVE_PRI$])
+m4trace:configure.ac:1253: -1- AST_EXT_LIB_CHECK([PRI_VERSION], [pri], [pri_get_version], [libpri.h])
+m4trace:configure.ac:1253: -1- m4_pattern_allow([^HAVE_PRI_VERSION$])
+m4trace:configure.ac:1255: -1- AST_EXT_LIB_CHECK([PRI_INBANDDISCONNECT], [pri], [pri_set_inbanddisconnect], [libpri.h])
+m4trace:configure.ac:1255: -1- m4_pattern_allow([^HAVE_PRI_INBANDDISCONNECT$])
+m4trace:configure.ac:1261: -1- m4_pattern_allow([^PTLIB_CONFIG$])
+m4trace:configure.ac:1261: -1- m4_pattern_allow([^PTLIB_CONFIG$])
+m4trace:configure.ac:1261: -1- m4_pattern_allow([^PTLIB_CONFIG$])
+m4trace:configure.ac:1261: -1- m4_pattern_allow([^PWLIBDIR$])
+m4trace:configure.ac:1261: -1- m4_pattern_allow([^PWLIB_INCDIR$])
+m4trace:configure.ac:1261: -1- m4_pattern_allow([^PWLIB_LIBDIR$])
+m4trace:configure.ac:1265: -1- m4_pattern_allow([^PWLIB_PLATFORM$])
+m4trace:configure.ac:1269: -1- m4_pattern_allow([^HAVE_PWLIB$])
+m4trace:configure.ac:1288: -1- m4_pattern_allow([^OPENH323DIR$])
+m4trace:configure.ac:1288: -1- m4_pattern_allow([^OPENH323_INCDIR$])
+m4trace:configure.ac:1288: -1- m4_pattern_allow([^OPENH323_LIBDIR$])
+m4trace:configure.ac:1290: -1- m4_pattern_allow([^OPENH323_SUFFIX$])
+m4trace:configure.ac:1290: -1- m4_pattern_allow([^OPENH323_BUILD$])
+m4trace:configure.ac:1292: -1- m4_pattern_allow([^HAVE_OPENH323$])
+m4trace:configure.ac:1308: -1- AST_EXT_LIB_CHECK([RADIUS], [radiusclient-ng], [rc_read_config], [radiusclient-ng.h])
+m4trace:configure.ac:1308: -1- m4_pattern_allow([^HAVE_RADIUS$])
+m4trace:configure.ac:1310: -1- AST_EXT_LIB_CHECK([SPEEX], [speex], [speex_encode], [speex/speex.h], [-lm])
+m4trace:configure.ac:1310: -1- m4_pattern_allow([^HAVE_SPEEX$])
+m4trace:configure.ac:1313: -1- AST_EXT_LIB_CHECK([SPEEX_PREPROCESS], [speex], [speex_preprocess_ctl], [speex/speex.h], [-lm])
+m4trace:configure.ac:1313: -1- m4_pattern_allow([^HAVE_SPEEX_PREPROCESS$])
+m4trace:configure.ac:1318: -1- AST_EXT_LIB_CHECK([SPEEXDSP], [speexdsp], [speex_preprocess_ctl], [speex/speex.h], [-lm])
+m4trace:configure.ac:1318: -1- m4_pattern_allow([^HAVE_SPEEXDSP$])
+m4trace:configure.ac:1323: -1- m4_pattern_allow([^PBX_SPEEX_PREPROCESS$])
+m4trace:configure.ac:1325: -1- AST_EXT_LIB_CHECK([SQLITE], [sqlite], [sqlite_exec], [sqlite.h])
+m4trace:configure.ac:1325: -1- m4_pattern_allow([^HAVE_SQLITE$])
+m4trace:configure.ac:1327: -1- AST_EXT_LIB_CHECK([CRYPTO], [ssl], [AES_encrypt], [openssl/aes.h])
+m4trace:configure.ac:1327: -1- m4_pattern_allow([^HAVE_CRYPTO$])
+m4trace:configure.ac:1328: -1- AST_EXT_LIB_CHECK([OPENSSL], [ssl], [SSL_connect], [openssl/ssl.h], [-lcrypto])
+m4trace:configure.ac:1328: -1- m4_pattern_allow([^HAVE_OPENSSL$])
+m4trace:configure.ac:1332: -1- AST_EXT_LIB_CHECK([OSPTK], [osptk], [OSPPCryptoDecrypt], [osp/osp.h], [-lcrypto -lssl])
+m4trace:configure.ac:1332: -1- m4_pattern_allow([^HAVE_OSPTK$])
+m4trace:configure.ac:1335: -1- AST_EXT_LIB_CHECK([FREETDS], [tds], [tds_version], [tds.h])
+m4trace:configure.ac:1335: -1- m4_pattern_allow([^HAVE_FREETDS$])
+m4trace:configure.ac:1364: -1- AST_EXT_LIB_CHECK([TERMCAP], [termcap], [tgetent], [])
+m4trace:configure.ac:1364: -1- m4_pattern_allow([^HAVE_TERMCAP$])
+m4trace:configure.ac:1366: -1- AST_EXT_LIB_CHECK([TINFO], [tinfo], [tgetent], [])
+m4trace:configure.ac:1366: -1- m4_pattern_allow([^HAVE_TINFO$])
+m4trace:configure.ac:1384: -1- AST_EXT_LIB_CHECK([TONEZONE], [tonezone], [tone_zone_find], [${tonezone_dir}/tonezone.h], [${tonezone_extra_lib}], [${tonezone_extra_inc}])
+m4trace:configure.ac:1384: -1- m4_pattern_allow([^HAVE_TONEZONE$])
+m4trace:configure.ac:1386: -1- AST_EXT_LIB_CHECK([USB], [usb], [usb_init], [usb.h], [])
+m4trace:configure.ac:1386: -1- m4_pattern_allow([^HAVE_USB$])
+m4trace:configure.ac:1388: -1- AST_EXT_LIB_CHECK([VORBIS], [vorbis], [vorbis_info_init], [vorbis/codec.h], [-lm -lvorbisenc])
+m4trace:configure.ac:1388: -1- m4_pattern_allow([^HAVE_VORBIS$])
+m4trace:configure.ac:1428: -1- m4_pattern_allow([^HAVE_VPB$])
+m4trace:configure.ac:1440: -1- AST_EXT_LIB_CHECK([ZLIB], [z], [compress], [zlib.h])
+m4trace:configure.ac:1440: -1- m4_pattern_allow([^HAVE_ZLIB$])
+m4trace:configure.ac:1467: -1- m4_pattern_allow([^HAVE_ZAPTEL$])
+m4trace:configure.ac:1473: -1- m4_pattern_allow([^HAVE_ZAPTEL_CHANALARMS$])
+m4trace:configure.ac:1475: -1- m4_pattern_allow([^HAVE_ZAPTEL_CHANALARMS$])
+m4trace:configure.ac:1533: -1- m4_pattern_allow([^PBX_ZAPTEL_VLDTMF$])
+m4trace:configure.ac:1534: -1- m4_pattern_allow([^PBX_DAHDI_TRANSCODE$])
+m4trace:configure.ac:1540: -1- m4_pattern_allow([^PBX_DAHDI$])
+m4trace:configure.ac:1541: -1- m4_pattern_allow([^DAHDI_INCLUDE$])
+m4trace:configure.ac:1542: -1- m4_pattern_allow([^DAHDI_LIB$])
+m4trace:configure.ac:1557: -1- m4_pattern_allow([^EDITLINE_LIB$])
+m4trace:configure.ac:1560: -1- m4_pattern_allow([^PBX_H323$])
+m4trace:configure.ac:1562: -1- m4_pattern_allow([^HAVE_LINUX_COMPILER_H$])
+m4trace:configure.ac:1571: -1- m4_pattern_allow([^PBX_IXJUSER$])
+m4trace:configure.ac:1575: -2- m4_pattern_allow([^HAVE_SBIN_LAUNCHD$])
+m4trace:configure.ac:1575: -1- _m4_warn([cross], [cannot check for file existence when cross compiling], [../../lib/autoconf/general.m4:2777: AC_CHECK_FILE is expanded from...
+configure.ac:1575: the top level])
+m4trace:configure.ac:1579: -1- m4_pattern_allow([^GTKCONFIG$])
+m4trace:configure.ac:1584: -1- m4_pattern_allow([^HAVE_GTK$])
+m4trace:configure.ac:1586: -1- m4_pattern_allow([^PBX_GTK$])
+m4trace:configure.ac:1587: -1- m4_pattern_allow([^GTK_INCLUDE$])
+m4trace:configure.ac:1588: -1- m4_pattern_allow([^GTK_LIB$])
+m4trace:configure.ac:1591: -1- m4_pattern_allow([^PKGCONFIG$])
+m4trace:configure.ac:1596: -1- m4_pattern_allow([^HAVE_GTK2$])
+m4trace:configure.ac:1598: -1- m4_pattern_allow([^PBX_GTK2$])
+m4trace:configure.ac:1599: -1- m4_pattern_allow([^GTK2_INCLUDE$])
+m4trace:configure.ac:1600: -1- m4_pattern_allow([^GTK2_LIB$])
+m4trace:configure.ac:1603: -1- m4_pattern_allow([^CURL_CONFIG$])
+m4trace:configure.ac:1628: -1- m4_pattern_allow([^HAVE_CURL$])
+m4trace:configure.ac:1635: -1- m4_pattern_allow([^LIB@&t@OBJS$])
+m4trace:configure.ac:1635: -1- m4_pattern_allow([^LTLIBOBJS$])

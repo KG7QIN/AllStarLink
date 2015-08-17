@@ -1,0 +1,3 @@
+<member name="chan_alsaradio" displayname="simple usb Radio Interface Channel Driver" remove_on_change="channels/chan_alsaradio.o channels/chan_alsaradio.so">
+        <defaultenabled>yes</defaultenabled> 	 	 
+</member>

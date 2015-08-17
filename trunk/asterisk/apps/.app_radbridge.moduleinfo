@@ -1,0 +1,2 @@
+<member name="app_radbridge" displayname="Radio Bridging interface module" remove_on_change="apps/app_radbridge.o apps/app_radbridge.so">
+</member>

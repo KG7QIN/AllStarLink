@@ -1,0 +1,4 @@
+<member name="codec_dahdi" displayname="Generic DAHDI Transcoder Codec Translator" remove_on_change="codecs/codec_dahdi.o codecs/codec_dahdi.so">
+	<depend>dahdi_transcode</depend>
+	<depend>dahdi</depend>
+</member>
