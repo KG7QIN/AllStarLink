@@ -1,4 +1,7 @@
 # AllStarLink
+
+(http://kg7qin.github.io/asterisk/2015/10/20/asterisk-for-allstar-link-network/)
+
 AllStarLink on for the 3.x+ Linux Kernel
 
 The files in this repository will compile successfully on a modern (3.x+) Linux Kernel (they have successfully been compiled on a Ubuntu 15.04 and runs fine).
